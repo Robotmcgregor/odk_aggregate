@@ -1,0 +1,308 @@
+,list_name,name,label,,no colon
+0,TS_COMP,Acacia-aneura,Acacia aneura - Mulga,,7
+1,TS_COMP,Acacia-auriculiformis,Acacia auriculiformis - Northern Black Wattle,,7
+2,TS_COMP,Acacia-bidwillii,Acacia bidwillii - Acacia,,7
+3,TS_COMP,Acacia-cambagei,Acacia cambagei - Gidgee,,7
+4,TS_COMP,Acacia-coriacea,Acacia coriacea  - Acacia,,7
+5,TS_COMP,Acacia-dictyophleba,Acacia dictyophleba - Sandhill Wattle,,7
+6,TS_COMP,Acacia-difficilis,Acacia difficilis - River Wattle,,7
+7,TS_COMP,Acacia-estrophiolata,Acacia estrophiolata - Ironwood,,7
+8,TS_COMP,Acacia-georginae,Acacia georginae - Georgina Gidyea,,7
+9,TS_COMP,Acacia-hemignosta,Acacia hemignosta - Club-Leaf Wattle,,7
+10,TS_COMP,Acacia-holosericea,Acacia holosericea - Soap Bush,,7
+11,TS_COMP,Acacia-kempeana,Acacia kempeana - Witchetty Bush,,7
+12,TS_COMP,Acacia-ligulata,Acacia ligulata - Acacia Ligulata,,7
+13,TS_COMP,Acacia-nilotica,Acacia nilotica - Prickly Acacia (Weed),,7
+14,TS_COMP,Acacia-platycarpa,Acacia platycarpa - White-Barked Wattle,,7
+15,TS_COMP,Acacia-pruinocarpa,Acacia pruinocarpa - Black Gidgee,,7
+16,TS_COMP,Acacia-shirleyi,Acacia shirleyi - Lancewood,,7
+17,TS_COMP,Acacia-sibirica,"Acacia sibirica - Desert Witchetty Bush, Bastard Mulga",,7
+18,TS_COMP,Acacia-sp.,Acacia sp. - Wattle,,7
+19,TS_COMP,Acacia-stipuligera,Acacia stipuligera - Scrub Wattle,,7
+20,TS_COMP,Acacia-sutherlandii,Acacia sutherlandii - Corkwood Wattle,,7
+21,TS_COMP,Acacia-tetragonophylla,"Acacia tetragonophylla - Dead Finish, Kurara",,7
+22,TS_COMP,Acacia-torulosa,Acacia torulosa - Torulosa Wattle,,7
+23,TS_COMP,Acacia-tumida,Acacia tumida - Pindan Wattle,,7
+24,TS_COMP,Acacia-valida,Acacia valida - Corkywood Wattle,,7
+25,TS_COMP,Acacia-victoriae-subsp.-Indeterminate,Acacia victoriae subsp. Indeterminate - Prickly Wattle,,7
+26,TS_COMP,Adansonia-gregorii,Adansonia gregorii - Boab,,10
+27,TS_COMP,Allocasuarina-decaisneana,Allocasuarina decaisneana - Desert Oak,,14
+28,TS_COMP,Alphitonia-excelsa,Alphitonia excelsa - Red Ash,,11
+29,TS_COMP,Amyema-quandang-var.-quandang,Amyema quandang var. quandang - Quandong,,7
+30,TS_COMP,Asteromyrtus-symphyocarpa,Asteromyrtus symphyocarpa - Liniment Tree,,13
+31,TS_COMP,Atalaya-hemiglauca,Atalaya hemiglauca - Whitewood,,8
+32,TS_COMP,Bauhinia-cunninghamii,Bauhinia cunninghamii - Bauhinia,,9
+33,TS_COMP,Brachychiton-diversifolius,Brachychiton diversifolius - Northern Kurrajong,,13
+34,TS_COMP,Brachychiton-paradoxus,Brachychiton paradoxus - Red-Flowered Kurrajong,,13
+35,TS_COMP,Brachychiton-sp.,Brachychiton sp. - Kurrajong,,13
+36,TS_COMP,Callitris-columellaris,Callitris columellaris - White Cypress Pine,,10
+37,TS_COMP,Callitris-intratropica,Callitris intratropica - Cypress Pine,,10
+38,TS_COMP,Capparis-lasiantha,Capparis lasiantha - Split Jack,,9
+39,TS_COMP,Capparis-mitchellii,Capparis mitchellii - Wild Orange,,9
+40,TS_COMP,Capparis-spinosa-var.-nummularia,Capparis spinosa var. nummularia - Caper Bush,,9
+41,TS_COMP,Cochlospermum-fraseri,Cochlospermum fraseri - Yellow Kapok,,14
+42,TS_COMP,Cochlospermum-gillivrael,Cochlospermum gillivrael - Kapok Currajong,,14
+43,TS_COMP,Corymbia-aspera,Corymbia aspera - Rough-Leaf Ghost Gum,,9
+44,TS_COMP,Corymbia-bella,Corymbia bella - Ghost Gum,,9
+45,TS_COMP,Corymbia-bleeseri,Corymbia bleeseri - Smooth Stemmed Bloodwood,,9
+46,TS_COMP,Corymbia-confertiflora,Corymbia confertiflora - Rough-Leaf Cabbage Gum,,9
+47,TS_COMP,Corymbia-dichromophloia,Corymbia dichromophloia - Variable Barked Bloodwood,,9
+48,TS_COMP,Corymbia-ferruginea,Corymbia ferruginea - Rusty-Leafed Bloodwood,,9
+49,TS_COMP,Corymbia-flavescens,Corymbia flavescens - Wrinkle-Leaf Ghost Gum,,9
+50,TS_COMP,Corymbia-foelscheana,Corymbia foelscheana - Smooth-Barked Bloodwood,,9
+51,TS_COMP,Corymbia-grandifolia,Corymbia grandifolia - Large-Leaf Cabbage Gum,,9
+52,TS_COMP,Corymbia-latifolia,Corymbia latifolia - Round Leaf Bloodwood,,9
+53,TS_COMP,Corymbia-opaca,Corymbia opaca - Bloodwood,,9
+54,TS_COMP,Corymbia-polycarpa,Corymbia polycarpa - Long-Fruited Bloodwood,,9
+55,TS_COMP,Corymbia-setosa,Corymbia setosa - Rough-Leaf Bloodwood,,9
+56,TS_COMP,Corymbia-terminalis,Corymbia terminalis - Inland Bloodwood,,9
+58,TS_COMP,Croton-arnhemicus,Croton arnhemicus - Hard Cascarilla,,7
+59,TS_COMP,Dichrostachys-spicata,Dichrostachys spicata - Chinese Lantern,,14
+60,TS_COMP,Eremophila-longifolia,"Eremophila longifolia - Weeping Emu Bush, Dogwood",,11
+61,TS_COMP,Eremophila-sp.,Eremophila sp. - Fuchsia Bush,,11
+62,TS_COMP,Erythrina-vespertilio,Erythrina vespertilio - Bean Tree,,10
+63,TS_COMP,Erythrophleum-chlorostachys,Erythrophleum chlorostachys - Ironwood,,14
+64,TS_COMP,Erythroxylum-ellipticum,Erythroxylum ellipticum - Kerosene Wood,,13
+65,TS_COMP,Eucalyptus-alba,Eucalyptus alba - White Gum,,11
+66,TS_COMP,Eucalyptus-argillacea,Eucalyptus argillacea - Southern Box,,11
+67,TS_COMP,Eucalyptus-brevifolia,Eucalyptus brevifolia - Snappy White Gum,,11
+68,TS_COMP,Eucalyptus-camaldulensis,Eucalyptus camaldulensis - River Red Gum,,11
+69,TS_COMP,Eucalyptus-chlorophylla,Eucalyptus chlorophylla - Green Leaf Box,,11
+70,TS_COMP,Eucalyptus-coolabah-subsp.-arida,Eucalyptus coolabah subsp. arida - Coolibah,,11
+71,TS_COMP,Eucalyptus-gamophylla,Eucalyptus gamophylla - Blue-Leaved Mallee,,11
+72,TS_COMP,Eucalyptus-leucophloia,Eucalyptus leucophloia - Snappy Gum,,11
+73,TS_COMP,Eucalyptus-limitaris,Eucalyptus limitaris - Halls Creek Box,,11
+74,TS_COMP,Eucalyptus-microtheca,Eucalyptus microtheca - Coolibah,,11
+75,TS_COMP,Eucalyptus-miniata,Eucalyptus miniata - Darwin Woollybutt,,11
+76,TS_COMP,Eucalyptus-odontocarpa,Eucalyptus odontocarpa - Sturt Creek Mallee,,11
+77,TS_COMP,Eucalyptus-oxymitra,Eucalyptus oxymitra - Blue Mallee,,11
+78,TS_COMP,Eucalyptus-pachyphylla,Eucalyptus pachyphylla - Red Bud Mallee,,11
+79,TS_COMP,Eucalyptus-patellaris,Eucalyptus patellaris - Weeping Box,,11
+80,TS_COMP,Eucalyptus-phoenicea,Eucalyptus phoenicea - Scarlett Gum,,11
+81,TS_COMP,Eucalyptus-pruinosa,Eucalyptus pruinosa - Silver Box,,11
+82,TS_COMP,Eucalyptus-setosa,Eucalyptus setosa - Eucalyptus,,11
+83,TS_COMP,Eucalyptus-sp.,Eucalyptus sp. - Gum Tree,,11
+84,TS_COMP,Eucalyptus-tectifica,Eucalyptus tectifica - Grey Box,,11
+85,TS_COMP,Eucalyptus-terminalis,Eucalyptus terminalis - Inland Bloodwood,,11
+86,TS_COMP,Eucalyptus-tetrodonta,Eucalyptus tetrodonta - Darwin Stringybark,,11
+87,TS_COMP,Eucalyptus-tintinnans,Eucalyptus tintinnans - Hills Salmon Gum,,11
+88,TS_COMP,Eucalyptus-umbrawarrensis,Eucalyptus umbrawarrensis - Umbrawarra Gum,,11
+89,TS_COMP,Eucalyptus-victrix,Eucalyptus victrix - Smooth-Barked Coolibah,,11
+91,TS_COMP,Excoecaria-parvifolia,Excoecaria parvifolia - Gutta Percha,,11
+92,TS_COMP,Ficus-scobina,Ficus scobina - Sandpaper Fig,,6
+93,TS_COMP,Flueggea-virosa,Flueggea virosa - Dogwood,,9
+94,TS_COMP,Gardenia-ewatii,Gardenia ewatii - Native Gardenia,,9
+95,TS_COMP,Gardenia-megasperma,Gardenia megasperma - Gardenia,,9
+96,TS_COMP,Grevillea-byrnesii,Grevillea byrnesii - Prickly Grevillea,,10
+97,TS_COMP,Grevillea-dimata,Grevillea dimata - Caustic Bush,,10
+98,TS_COMP,Grevillea-parallela,Grevillea parallela - Silver Grevillea,,10
+99,TS_COMP,Grevillea-sp.,Grevillea sp. - Grevillea,,10
+100,TS_COMP,Grevillea-striata,Grevillea striata - Beefwood,,10
+101,TS_COMP,Grevillea-wickhamii,Grevillea wickhamii - Holly Leaved Grevillea,,10
+102,TS_COMP,Gyrocarpus-americanus,Gyrocarpus americanus - Shitwood,,11
+103,TS_COMP,Hakea-arborescens,Hakea arborescens - Common Hakea,,6
+104,TS_COMP,Hakea-divaricata,Hakea divaricata - Fork-Leaved Corkwood,,6
+105,TS_COMP,Hakea-eyreana,Hakea eyreana - Straggly Corkbark,,6
+106,TS_COMP,Hakea-leucoptera-spp.-leucoptera,Hakea leucoptera spp. leucoptera - Needlebush,,6
+107,TS_COMP,Hakea-lorea,Hakea lorea - Bootlace Oak,,6
+108,TS_COMP,Hakea-lorea-subsp.-lorea,Hakea lorea subsp. lorea - Southern Long Leaved Corkwood,,6
+109,TS_COMP,Hakea-macrocarpa,Hakea macrocarpa  - Flat Leaved Hakea,,6
+110,TS_COMP,Hakea-sp.,Hakea sp - Hakea,,6
+111,TS_COMP,Hakea-suberea,Hakea suberea - Corkbark Tree,,6
+112,TS_COMP,Hakia-sp.,Hakia sp. - Corkwood,,6
+113,TS_COMP,Lophostemon-grandiflorus,Lophostemon grandiflorus - Northern Swamp Mahogany,,12
+114,TS_COMP,Macropteranthes-kekwickii,Macropteranthes kekwickii - Bulwaddy,,16
+115,TS_COMP,Melaleuca-acacioides,Melaleuca acacioides - Coastal Paperbark,,10
+116,TS_COMP,Melaleuca-citrolens,Melaleuca citrolens - Narrow-Leaved Paperbark,,10
+117,TS_COMP,Melaleuca-minutifolia,Melaleuca minutifolia - Teatree,,10
+118,TS_COMP,Melaleuca-nervosa,Melaleuca nervosa - Fibrebark,,10
+119,TS_COMP,Melaleuca-sp.,Melaleuca sp. - Paperbark,,10
+120,TS_COMP,Melaleuca-viridiflora,Melaleuca viridiflora - Green Paperbark,,10
+121,TS_COMP,Owenia-acidula,Owenia acidula - Emu Apple,,7
+122,TS_COMP,Owenia-vernicosa,Owenia vernicosa - Emu Apple,,7
+123,TS_COMP,Pandanus-aquaticus,Pandanus aquaticus - Pandanus,,9
+124,TS_COMP,Pandanus-spiralis,Pandanus spiralis - Pandanus,,9
+125,TS_COMP,Parkinsonia-aculeata,Parkinsonia aculeata - Parkinsonia (Weed),,12
+126,TS_COMP,Petalostigma-pubescens,Petalostigma pubescens - Quinine Tree,,13
+127,TS_COMP,Planchonia-careya,Planchonia careya - Cocky Apple,,11
+128,TS_COMP,Prosopis-pallida,Prosopis pallida - Mesquite (Weed),,9
+129,TS_COMP,Tamarix-aphylaa,Tamarix aphylaa - Athel Pine (Weed),,8
+130,TS_COMP,Terminalia-arostrata,Terminalia arostrata - Nutwood,,11
+131,TS_COMP,Terminalia-canescens,Terminalia canescens - Wingnut Tree,,11
+132,TS_COMP,Terminalia-ferdinandiana,Terminalia ferdinandiana - Billygoat Plum,,11
+133,TS_COMP,Terminalia-grandiflora,Terminalia grandiflora - Plumwood,,11
+134,TS_COMP,Terminalia-platyptera,Terminalia platyptera - Wing-Seed Terminalia,,11
+135,TS_COMP,Terminalia-sp.,Terminalia sp. - Terminalia,,11
+136,TS_COMP,Terminalia-subacroptera,Terminalia subacroptera - Pear Tree,,11
+137,TS_COMP,Terminalia-volucris,Terminalia volucris - Rosewood,,11
+138,TS_COMP,Ventilago-viminalis,Ventilago viminalis - Supplejack,,10
+139,TS_COMP,Xanthostemon-psidioides,Xanthostemon psidioides - Myrtle,,13
+140,TS_COMP,Ziziphus-mauritiana,Ziziphus mauritiana - Chinee Apple (Weed),,9
+141,TS_COMP,other1,Other species 1,,no colon
+142,TS_COMP,other2,Other species 2,,no colon
+143,TS_COMP,other3,Other species 3,,no colon
+144,TS_COMP,other4,Other species 4,,no colon
+0,TS_NORTH,Acacia-aneura,Acacia aneura - Mulga,,7
+1,TS_NORTH,Acacia-auriculiformis,Acacia auriculiformis - Northern Black Wattle,,7
+2,TS_NORTH,Acacia-bidwillii,Acacia bidwillii - Acacia,,7
+3,TS_NORTH,Acacia-cambagei,Acacia cambagei - Gidgee,,7
+4,TS_NORTH,Acacia-difficilis,Acacia difficilis - River Wattle,,7
+5,TS_NORTH,Acacia-georginae,Acacia georginae - Georgina Gidgee,,7
+6,TS_NORTH,Acacia-hemignosta,Acacia hemignosta - Club-Leaf Wattle,,7
+7,TS_NORTH,Acacia-holosericea,Acacia holosericea - Soap Bush,,7
+8,TS_NORTH,Acacia-kempeana,Acacia kempeana - Wanderrie Wattle,,7
+9,TS_NORTH,Acacia-nilotica,Acacia nilotica - Prickly Acacia (Weed),,7
+10,TS_NORTH,Acacia-platycarpa,Acacia platycarpa - White-Barked Wattle,,7
+11,TS_NORTH,Acacia-shirleyi,Acacia shirleyi - Lancewood,,7
+12,TS_NORTH,Acacia-sp.,Acacia sp. - Wattle,,7
+13,TS_NORTH,Acacia-sutherlandii,Acacia sutherlandii - Corkwood Wattle,,7
+14,TS_NORTH,Acacia-torulosa,Acacia torulosa - Torulosa Wattle,,7
+15,TS_NORTH,Acacia-tumida,Acacia tumida - Pindan Wattle,,7
+16,TS_NORTH,Acacia-valida,Acacia valida - Corkywood Wattle,,7
+17,TS_NORTH,Adansonia-gregorii,Adansonia gregorii - Boab,,10
+18,TS_NORTH,Alphitonia-excelsa,Alphitonia excelsa - Red Ash,,11
+19,TS_NORTH,Asteromyrtus-symphyocarpa,Asteromyrtus symphyocarpa - Liniment Tree,,13
+20,TS_NORTH,Atalaya-hemiglauca,Atalaya hemiglauca - Whitewood,,8
+21,TS_NORTH,Bauhinia-cunninghamii,Bauhinia cunninghamii - Bauhinia,,9
+22,TS_NORTH,Brachychiton-diversifolius,Brachychiton diversifolius - Northern Kurrajong,,13
+23,TS_NORTH,Brachychiton-paradoxus,Brachychiton paradoxus - Red-Flowered Kurrajong,,13
+24,TS_NORTH,Brachychiton-sp.,Brachychiton sp. - Kurrajong,,13
+25,TS_NORTH,Callitris-columellaris,Callitris columellaris - White Cypress Pine,,10
+26,TS_NORTH,Callitris-intratropica,Callitris intratropica - Cypress Pine,,10
+27,TS_NORTH,Capparis-mitchellii,Capparis mitchellii - Native Orange,,9
+28,TS_NORTH,Cochlospermum-fraseri,Cochlospermum fraseri - Yellow Kapok,,14
+29,TS_NORTH,Cochlospermum-gillivrael,Cochlospermum gillivrael - Kapok Currajong,,14
+30,TS_NORTH,Corymbia-aspera,Corymbia aspera - Rough-Leaf Ghost Gum,,9
+31,TS_NORTH,Corymbia-bella,Corymbia bella - Ghost Gum,,9
+32,TS_NORTH,Corymbia-bleeseri,Corymbia bleeseri - Smooth Stemmed Bloodwood,,9
+33,TS_NORTH,Corymbia-confertiflora,Corymbia confertiflora - Rough-Leaf Cabbage Gum,,9
+34,TS_NORTH,Corymbia-dichromophloia,Corymbia dichromophloia - Variable-Barked Bloodwood,,9
+35,TS_NORTH,Corymbia-ferruginea,Corymbia ferruginea - Rusty-Leafed Bloodwood,,9
+36,TS_NORTH,Corymbia-flavescens,Corymbia flavescens - Wrinkle-Leaf Ghost Gum,,9
+37,TS_NORTH,Corymbia-foelscheana,Corymbia foelscheana - Smooth-Barked Bloodwood,,9
+38,TS_NORTH,Corymbia-grandifolia,Corymbia grandifolia - Large-Leaf Cabbage Gum,,9
+39,TS_NORTH,Corymbia-latifolia,Corymbia latifolia - Round Leaf Bloodwood,,9
+40,TS_NORTH,Corymbia-opaca,Corymbia opaca - Desert Bloodwood,,9
+41,TS_NORTH,Corymbia-polycarpa,Corymbia polycarpa - Long-Fruited Bloodwood,,9
+42,TS_NORTH,Corymbia-setosa,Corymbia setosa - Rough-Leaf Bloodwood,,9
+43,TS_NORTH,Corymbia-terminalis,Corymbia terminalis - Inland Bloodwood,,9
+44,TS_NORTH,Croton-arnhemicus,Croton arnhemicus - Hard Cascarilla,,7
+45,TS_NORTH,Dichrostachys-spicata,Dichrostachys spicata - Chinese Lantern,,14
+46,TS_NORTH,Erythrophleum-chlorostachys,Erythrophleum chlorostachys - Ironwood,,14
+47,TS_NORTH,Erythroxylum-ellipticum,Erythroxylum ellipticum - Kerosene Wood,,13
+48,TS_NORTH,Eucalyptus-alba,Eucalyptus alba - White Gum,,11
+49,TS_NORTH,Eucalyptus-argillacea,Eucalyptus argillacea - Southern Box,,11
+50,TS_NORTH,Eucalyptus-brevifolia,Eucalyptus brevifolia - Snappy White Gum,,11
+51,TS_NORTH,Eucalyptus-camaldulensis,Eucalyptus camaldulensis - River Red Gum,,11
+52,TS_NORTH,Eucalyptus-chlorophylla,Eucalyptus chlorophylla - Green Leaf Box,,11
+53,TS_NORTH,Eucalyptus-leucophloia,Eucalyptus leucophloia - Snappy Gum,,11
+54,TS_NORTH,Eucalyptus-limitaris,Eucalyptus limitaris - Halls Creek Box,,11
+55,TS_NORTH,Eucalyptus-microtheca,Eucalyptus microtheca - Collabah,,11
+56,TS_NORTH,Eucalyptus-miniata,Eucalyptus miniata - Darwin Woollybutt,,11
+57,TS_NORTH,Eucalyptus-odontocarpa,Eucalyptus odontocarpa - Sturt Creek Mallee,,11
+58,TS_NORTH,Eucalyptus-patellaris,Eucalyptus patellaris - Weeping Box,,11
+59,TS_NORTH,Eucalyptus-phoenicea,Eucalyptus phoenicea - Scarlett Gum,,11
+60,TS_NORTH,Eucalyptus-pruinosa,Eucalyptus pruinosa - Silver-Leaf Box,,11
+61,TS_NORTH,Eucalyptus-sp.,Eucalyptus sp. - Gum Tree,,11
+62,TS_NORTH,Eucalyptus-tectifica,Eucalyptus tectifica - Grey Box,,11
+63,TS_NORTH,Eucalyptus-tetrodonta,Eucalyptus tetrodonta - Darwin Stringybark,,11
+64,TS_NORTH,Eucalyptus-tintinnans,Eucalyptus tintinnans - Hills Salmon Gum,,11
+65,TS_NORTH,Eucalyptus-umbrawarrensis,Eucalyptus umbrawarrensis - Umbrawarra Gum,,11
+66,TS_NORTH,Eucalyptus-victrix,Eucalyptus victrix - Smooth-Barked Coolibah,,11
+68,TS_NORTH,Excoecaria-parvifolia,Excoecaria parvifolia - Gutta Percha,,11
+69,TS_NORTH,Ficus-scobina,Ficus scobina - Sandpaper Fig,,6
+70,TS_NORTH,Flueggea-virosa,Flueggea virosa - Dogwood,,9
+71,TS_NORTH,Gardenia-ewatii,Gardenia ewatii - Native Gardenia,,9
+72,TS_NORTH,Gardenia-megasperma,Gardenia megasperma - Gardenia,,9
+73,TS_NORTH,Grevillea-byrnesii,Grevillea byrnesii - Prickly Grevillea,,10
+74,TS_NORTH,Grevillea-dimata,Grevillea dimata - Caustic Bush,,10
+75,TS_NORTH,Grevillea-parallela,Grevillea parallela - Silver Grevillea,,10
+76,TS_NORTH,Grevillea-sp.,Grevillea sp. - Grevillea,,10
+77,TS_NORTH,Grevillea-striata,Grevillea striata - Beefwood,,10
+78,TS_NORTH,Grevillea-wickhamii,Grevillea wickhamii - Holly Leaved Grevillea,,10
+79,TS_NORTH,Gyrocarpus-americanus,Gyrocarpus americanus - Shitwood,,11
+80,TS_NORTH,Hakea-arborescens,Hakea arborescens - Common Hakea,,6
+81,TS_NORTH,Hakea-lorea,Hakea lorea - Bootlace Oak,,6
+82,TS_NORTH,Hakea-sp.,Hakea sp - Hakea,,6
+83,TS_NORTH,Hakea-suberea,Hakea suberea - Corkbark Tree,,6
+84,TS_NORTH,Lophostemon-grandiflorus,Lophostemon grandiflorus - Northern Swamp Mahogany,,12
+85,TS_NORTH,Macropteranthes-kekwickii,Macropteranthes kekwickii - Bulwaddy,,16
+86,TS_NORTH,Melaleuca-acacioides,Melaleuca acacioides - Coastal Paperbark,,10
+87,TS_NORTH,Melaleuca-citrolens,Melaleuca citrolens - Narrow-Leaved Paperbark,,10
+88,TS_NORTH,Melaleuca-minutifolia,Melaleuca minutifolia - Teatree,,10
+89,TS_NORTH,Melaleuca-nervosa,Melaleuca nervosa - Fibrebark,,10
+90,TS_NORTH,Melaleuca-sp.,Melaleuca sp. - Paperbark,,10
+91,TS_NORTH,Melaleuca-viridiflora,Melaleuca viridiflora - Green Paperbark,,10
+92,TS_NORTH,Owenia-acidula,Owenia acidula - Emu Apple,,7
+93,TS_NORTH,Owenia-vernicosa,Owenia vernicosa - Emu Apple,,7
+94,TS_NORTH,Pandanus-aquaticus,Pandanus aquaticus - Pandanus,,9
+95,TS_NORTH,Pandanus-spiralis,Pandanus spiralis - Pandanus,,9
+96,TS_NORTH,Parkinsonia-aculeata,Parkinsonia aculeata - Parkinsonia (Weed),,12
+97,TS_NORTH,Petalostigma-pubescens,Petalostigma pubescens - Quinine Tree,,13
+98,TS_NORTH,Planchonia-careya,Planchonia careya - Cocky Apple,,11
+99,TS_NORTH,Prosopis-pallida,Prosopis pallida - Mesquite (Weed),,9
+100,TS_NORTH,Tamarix-aphylaa,Tamarix aphylaa - Athel Pine (Weed),,8
+101,TS_NORTH,Terminalia-arostrata,Terminalia arostrata - Nutwood,,11
+102,TS_NORTH,Terminalia-canescens,Terminalia canescens - Wingnut Tree,,11
+103,TS_NORTH,Terminalia-ferdinandiana,Terminalia ferdinandiana - Billygoat Plum,,11
+104,TS_NORTH,Terminalia-grandiflora,Terminalia grandiflora - Plumwood,,11
+105,TS_NORTH,Terminalia-platyptera,Terminalia platyptera - Wing-Seed Terminalia,,11
+106,TS_NORTH,Terminalia-sp.,Terminalia sp. - Terminalia,,11
+107,TS_NORTH,Terminalia-subacroptera,Terminalia subacroptera - Pear Tree,,11
+108,TS_NORTH,Terminalia-volucris,Terminalia volucris - Rosewood,,11
+109,TS_NORTH,Ventilago-viminalis,Ventilago viminalis - Supplejack,,10
+110,TS_NORTH,Xanthostemon-psidioides,Xanthostemon psidioides - Myrtle,,13
+111,TS_NORTH,Ziziphus-mauritiana,Ziziphus mauritiana - Chinee Apple (Weed),,9
+112,TS_NORTH,other1,Other species 1,,no colon
+113,TS_NORTH,other2,Other species 2,,no colon
+114,TS_NORTH,other3,Other species 3,,no colon
+115,TS_NORTH,other4,Other species 4,,no colon
+0,TS_SOUTH,Acacia-aneura,Acacia aneura - Mulga,,7
+1,TS_SOUTH,Acacia-coriacea,Acacia coriacea  - Acacia,,7
+2,TS_SOUTH,Acacia-dictyophleba,Acacia dictyophleba - Sandhill Wattle,,7
+3,TS_SOUTH,Acacia-estrophiolata,Acacia estrophiolata - Ironwood,,7
+4,TS_SOUTH,Acacia-georginae,Acacia georginae - Georgina Gidyea,,7
+5,TS_SOUTH,Acacia-kempeana,Acacia kempeana - Witchetty Bush,,7
+6,TS_SOUTH,Acacia-ligulata,Acacia ligulata - Acacia Ligulata,,7
+7,TS_SOUTH,Acacia-pruinocarpa,Acacia pruinocarpa - Black Gidgee,,7
+8,TS_SOUTH,Acacia-shirleyi,Acacia shirleyi - Lancewood,,7
+9,TS_SOUTH,Acacia-sibirica,"Acacia sibirica - Desert Witchetty Bush, Bastard Mulga",,7
+10,TS_SOUTH,Acacia-stipuligera,Acacia stipuligera - Scrub Wattle,,7
+11,TS_SOUTH,Acacia-tetragonophylla,"Acacia tetragonophylla - Dead Finish, Kurara",,7
+12,TS_SOUTH,Acacia-victoriae-subsp.-Indeterminate,Acacia victoriae subsp. Indeterminate - Prickly Wattle,,7
+13,TS_SOUTH,Allocasuarina-decaisneana,Allocasuarina decaisneana - Desert Oak,,14
+14,TS_SOUTH,Amyema-quandang-var.-quandang,Amyema quandang var. quandang - Quandong,,7
+15,TS_SOUTH,Atalaya-hemiglauca,Atalaya hemiglauca - Whitewood,,8
+16,TS_SOUTH,Capparis-lasiantha,Capparis lasiantha - Split Jack,,9
+17,TS_SOUTH,Capparis-mitchellii,Capparis mitchellii - Wild Orange,,9
+18,TS_SOUTH,Capparis-spinosa-var.-nummularia,Capparis spinosa var. nummularia - Caper Bush,,9
+19,TS_SOUTH,Corymbia-bella,Corymbia bella - Ghost Gum,,9
+20,TS_SOUTH,Corymbia-dichromophloia,Corymbia dichromophloia - Variable Barked Bloodwood,,9
+22,TS_SOUTH,Corymbia-ferruginea,Corymbia ferruginea - Rusty Bloodwood,,9
+21,TS_SOUTH,Corymbia-opaca,Corymbia opaca - Bloodwood,,9
+23,TS_SOUTH,Eremophila-longifolia,"Eremophila longifolia - Weeping Emu Bush, Dogwood",,11
+24,TS_SOUTH,Eremophila-sp.,Eremophila sp. - Fuchsia Bush,,11
+25,TS_SOUTH,Erythrina-vespertilio,Erythrina vespertilio - Bean Tree,,10
+26,TS_SOUTH,Eucalyptus-camaldulensis,Eucalyptus camaldulensis - River Red Gum,,11
+27,TS_SOUTH,Eucalyptus-coolabah-subsp.-arida,Eucalyptus coolabah subsp. arida - Coolibah,,11
+28,TS_SOUTH,Eucalyptus-gamophylla,Eucalyptus gamophylla - Blue-Leaved Mallee,,11
+29,TS_SOUTH,Eucalyptus-leucophloia,Eucalyptus leucophloia - Snappy Gum,,11
+30,TS_SOUTH,Eucalyptus-microtheca,Eucalyptus microtheca - Coolibah,,11
+31,TS_SOUTH,Eucalyptus-oxymitra,Eucalyptus oxymitra - Blue Mallee,,11
+32,TS_SOUTH,Eucalyptus-pachyphylla,Eucalyptus pachyphylla - Red Bud Mallee,,11
+33,TS_SOUTH,Eucalyptus-pruinosa,Eucalyptus pruinosa - Silver Box,,11
+34,TS_SOUTH,Eucalyptus-setosa,Eucalyptus setosa - Eucalyptus,,11
+35,TS_SOUTH,Eucalyptus-terminalis,Eucalyptus terminalis - Inland Bloodwood,,11
+36,TS_SOUTH,Grevillea-striata,Grevillea striata - Beefwood,,10
+37,TS_SOUTH,Hakea-divaricata,Hakea divaricata - Fork-Leaved Corkwood,,6
+38,TS_SOUTH,Hakea-eyreana,Hakea eyreana - Straggly Corkbark,,6
+39,TS_SOUTH,Hakea-leucoptera-spp.-leucoptera,Hakea leucoptera spp. leucoptera - Needlebush,,6
+40,TS_SOUTH,Hakea-lorea-subsp.-lorea,Hakea lorea subsp. lorea - Southern Long Leaved Corkwood,,6
+41,TS_SOUTH,Hakea-macrocarpa,Hakea macrocarpa  - Flat Leaved Hakea,,6
+42,TS_SOUTH,Hakia-sp.,Hakia sp. - Corkwood,,6
+43,TS_SOUTH,Terminalia-volucris,Terminalia volucris - Rosewood,,11
+44,TS_SOUTH,Ventilago-viminalis,Ventilago viminalis - Supplejack,,10
+45,TS_SOUTH,other1,Other species 1,,no colon
+46,TS_SOUTH,other2,Other species 2,,no colon
+47,TS_SOUTH,other3,Other species 3,,no colon
+48,TS_SOUTH,other4,Other species 4,,no colon

@@ -1,0 +1,632 @@
+,list_name,name,label,,no colon
+0,FB_COMP,Abelmoschus-ficulneaus,Abelmoschus ficulneaus - Native Rosella,,12
+1,FB_COMP,Abelmoschus-ficulneus,Abelmoschus ficulneus - Native Rosella,,12
+2,FB_COMP,Abutilon-hannii,Abutilon hannii - Mallow,,9
+3,FB_COMP,Abutilon-leucopetalum,Abutilon leucopetalum - Lantern Bush,,9
+4,FB_COMP,Abutilon-otocarpum,Abutilon otocarpum - Desert Chinese Lantern,,9
+5,FB_COMP,Abutilon-otocarpus,Abutilon otocarpus - Desert Chinese Lantern,,9
+6,FB_COMP,Abutilon-sp.,Abutilon sp. - Abutilon,,9
+7,FB_COMP,Achyranthes-aspera,Achyranthes aspera - Chaff Flower,,12
+8,FB_COMP,Aerva-javanica,Aerva javanica - Kapok Bush,,6
+9,FB_COMP,Aeschynomene-indica,Aeschynomene indica - Budda Pea,,13
+10,FB_COMP,Alternanthera-nodiflora,Alternanthera nodiflora - Common Joyweed,,14
+11,FB_COMP,Aluta-maisonneuvei-subsp.-maisonneuvei,Aluta maisonneuvei subsp. maisonneuvei - Aluta maisonneuvei subsp. Maisonneuvei,,6
+12,FB_COMP,Ammannia-multiflora,Ammannia multiflora - Jerry Jerry,,9
+13,FB_COMP,Arabidella-glaucescens,Arabidella glaucescens - Arabidella,,11
+14,FB_COMP,Aster-sp.,Aster sp. - Aster,,6
+15,FB_COMP,Bergia-perennis,Bergia perennis - Desert Mat,,7
+16,FB_COMP,Blennodia-canescens,Blennodia canescens - Native Stock,,10
+17,FB_COMP,Blumea-diffusa,Blumea diffusa - Blumea,,7
+18,FB_COMP,Blumea-tenella,Blumea tenella - Blumea,,7
+19,FB_COMP,Boerhavia-coccinea,Boerhavia coccinea - Scarlet Spiderling,,10
+20,FB_COMP,Boerhavia-diffusa,Boerhavia diffusa - Tar Vine,,10
+21,FB_COMP,Boerhavia-paludosa,Boerhavia paludosa - Black Soil Tar Vine,,10
+22,FB_COMP,Boerhavia-schomburgkiana,Boerhavia schomburgkiana - Tar Vine,,10
+23,FB_COMP,Boerhavia-sp.,Boerhavia sp - Tarvine,,10
+24,FB_COMP,Bonamia-media,Bonamia media - Common Bonamia,,8
+25,FB_COMP,Bonamia-pannosa,Bonamia pannosa - Large Bonamia,,8
+26,FB_COMP,Brachyscome-sp.,Brachyscome sp. - Daisy,,12
+27,FB_COMP,Brachyscome-ciliaris,"Brachyscome ciliaris - Brachyscome, Variable Daisy",,12
+28,FB_COMP,Brachyscome-ciliaris-var.-lanuginosa,Brachyscome ciliaris var. lanuginosa - Brachyscome Ciliaris Var. Lanuginosa,,12
+29,FB_COMP,Bulbostylis-barbata,Bulbostylis barbata - Dainty Sedge,,12
+30,FB_COMP,Calandrinia-balonensis,Calandrinia balonensis - Broad-Leaf Parrakeelya,,12
+31,FB_COMP,Calandrinia-disperma,Calandrinia disperma - Calandrinia,,12
+32,FB_COMP,Calandrinia-sp.,Calandrinia sp. - Parakeelya,,12
+33,FB_COMP,Calandrinia-reticulata,Calandrinia reticulata - Calandrinia Reticulata,,12
+34,FB_COMP,Calocephalus-platycephalus,Calocephalus platycephalus - Yellow Billy Buttons,,13
+35,FB_COMP,Calotis-hispidula,Calotis hispidula - Bogan Flea,,8
+36,FB_COMP,Chamaecrista-rotundifolia,Chamaecrista rotundifolia - Wynn Cassia,,13
+37,FB_COMP,Cheilanthes-lasiophylla,Cheilanthes lasiophylla - Woolly Cloak Fren,,12
+38,FB_COMP,Cheilanthes-seiberi,Cheilanthes seiberi - Mulga Fern,,12
+39,FB_COMP,Chenopodium-auricomum,Chenopodium auricomum - Northern Bluebush,,12
+40,FB_COMP,Chrysocephalum-apiculatum,Chrysocephalum apiculatum - Common Everlasting,,15
+41,FB_COMP,Chthonocephalus-pseudevax,"Chthonocephalus pseudevax - Chthonocephalus, Ground-Heads",,16
+42,FB_COMP,Citrullus-lanatus,Citrullus lanatus - Wild Melon,,10
+43,FB_COMP,Citrullus-sp.,Citrullus sp. - Melon,,10
+44,FB_COMP,Cleome-viscosa,Cleome viscosa - Tickweed,,7
+45,FB_COMP,Clitorea-ternatea,Clitorea ternatea - Blue Pea,,9
+46,FB_COMP,Coldenia-procumbens,Coldenia procumbens - Coldenia,,9
+47,FB_COMP,Commelina-ensifolia,Commelina ensifolia - Wandering Jew,,10
+48,FB_COMP,Commelina-lanceolata,Commelina lanceolata - Wandering Jew,,10
+49,FB_COMP,Convolvulus-clementii,Convolvulus clementii - Bindweed,,12
+50,FB_COMP,Convolvulus-remotus,Convolvulus remotus - Convolvulus Remotus,,12
+51,FB_COMP,Convolvulus-sp.,Convolvulus sp. - Australian Bindweed,,12
+52,FB_COMP,Corchorus-sidoides,Corchorus sidoides - Flannel Jute,,10
+53,FB_COMP,Corchorus-sp.,Corchorus sp. - Jute,,10
+54,FB_COMP,Cressa-cretica,Cressa cretica - Rosinweed,,7
+55,FB_COMP,Crotalaria-crispata,Crotalaria crispata - Kimberley Horse Poison,,11
+56,FB_COMP,Crotalaria-dissitiflora,Crotalaria dissitiflora - Grey Rattlepod,,11
+57,FB_COMP,Crotalaria-eremaea-subsp.-eremaea,"Crotalaria eremaea subsp. eremaea - Crotalaria, Desert Rattlepod, Rattlepod",,11
+58,FB_COMP,Crotalaria-medicaginea,Crotalaria medicaginea - Trefoil Rattlepod,,11
+59,FB_COMP,Crotalaria-medicaginea-var.-indeterminate,Crotalaria medicaginea var. indeterminate - Crotalaria medicaginea var. indeterminate,,11
+60,FB_COMP,Crotalaria-montana,Crotalaria montana - Rattlepod,,11
+61,FB_COMP,Crotalaria-novae-hollandiae,Crotalaria novae-hollandiae - New Holland Rattlepod,,11
+62,FB_COMP,Crotalaria-sp.,Crotalaria sp. - Crotalaria,,11
+63,FB_COMP,Cucumis-melo,Cucumis melo - Bush Cucumber,,8
+64,FB_COMP,Cullen-australasicum,Cullen australasicum - Tall Verbine,,7
+65,FB_COMP,Cullen-cinereum,Cullen cinereum - Annual Verbine,,7
+66,FB_COMP,Cyperus-bifax,Cyperus bifax - Downs Nutgrass,,8
+67,FB_COMP,Cyperus-sp.,Cyperus sp. - Sedge,,8
+69,FB_COMP,Datura-ferox,Datura ferox - Thornapple,,7
+70,FB_COMP,Desmodium-muelleri,Desmodium muelleri - Mueller's Necklace Pea,,10
+71,FB_COMP,Dissocarpus-paradoxus,Dissocarpus paradoxus - Cannonball Burr,,12
+72,FB_COMP,Dodonaea-viscosa-subsp.-angustissima,Dodonaea viscosa subsp. angustissima - Sticky Hopbush,,9
+73,FB_COMP,Dysphania-melanocarpa,Dysphania melanocarpa - Black Crumbweed,,10
+74,FB_COMP,Ehretia-saligna,Ehretia saligna - Coonta,,8
+75,FB_COMP,Einadia-nutans,Einadia nutans - Climbing Saltbush,,8
+76,FB_COMP,Eremophea-spinosa,Eremophea spinosa - Eremophea spinosa,,10
+77,FB_COMP,Erodium-angustilobum,Erodium angustilobum - Erodium,,8
+78,FB_COMP,Erodium-cygnorum,Erodium cygnorum - Blue Crowfoot,,8
+80,FB_COMP,Euphorbia-sp.,Euphorbia sp. - Euphorbia,,10
+83,FB_COMP,Euphorbia-drummondii,Euphorbia drummondii - Caustic Weed,,10
+81,FB_COMP,Euphorbia-tannensis,Euphorbia tannensis - Desert Spurge,,10
+82,FB_COMP,Euphorbia-tannensis-subsp.-Eremophila,Euphorbia tannensis subsp. Eremophila - Desert Spurge,,10
+85,FB_COMP,Evolvulus-alsinoides,Evolvulus alsinoides - Dwarf Morning Glory,,10
+86,FB_COMP,Evolvulus-alsinoides-var.-indeterminate,Evolvulus alsinoides var. indeterminate - Tropical Speedwell,,10
+87,FB_COMP,Fimbristylis-dichotoma,Fimbristylis dichotoma - Eight Day Sedge,,13
+88,FB_COMP,Fimbristylis-phaeoleuca,Fimbristylis phaeoleuca - Sedge,,13
+89,FB_COMP,Fimbristylis-simulans,Fimbristylis simulans - Desert Fringe Rush,,13
+90,FB_COMP,Fimbristylis-sp.,Fimbristylis sp. - Sedge,,13
+91,FB_COMP,Flaveria-australasica,Flaveria australasica - Speedy Weed,,9
+92,FB_COMP,Flemingia-pauciflora,Flemingia pauciflora - Flemings Bush,,10
+93,FB_COMP,Flemingia-paucifolia,Flemingia paucifolia - Flemings Bush,,10
+94,FB_COMP,Frankenia-sp.,Frankenia sp. - Sea Heath,,10
+95,FB_COMP,Glycine-falcata,Glycine falcata - Fringed Glycine,,8
+96,FB_COMP,Gomphrena-breviflora,Gomphrena breviflora - White Gomphrena,,10
+97,FB_COMP,Gomphrena-canescens,Gomphrena canescens - Batchelor's Buttons,,10
+98,FB_COMP,Gomphrena-conica,Gomphrena conica - Fluffy Gomphrena,,10
+99,FB_COMP,Gomphrena-lanata,Gomphrena lanata - Husband's Buttons,,10
+100,FB_COMP,Gomphrena-sp.,Gomphrena sp. - Gomphrena,,10
+106,FB_COMP,Goodenia-cycloptera,Goodenia cycloptera - Serrated Goodenia,,9
+101,FB_COMP,Goodenia-lunata,Goodenia lunata - Hairy Goodenia,,9
+102,FB_COMP,Goodenia-ramelii,Goodenia ramelii - Goodenia Ramelii,,9
+103,FB_COMP,Goodenia-scaevolina,Goodenia scaevolina - Blue Fan Flower,,9
+104,FB_COMP,Goodenia-sp.,Goodenia sp. - Goodenia,,9
+105,FB_COMP,Goodenia-strangfordii,Goodenia strangfordii - Wide-Leaved Goodenia,,9
+107,FB_COMP,Grewia-retusifolia,"Grewia retusifolia - Emu Bush, Dogs Balls",,7
+108,FB_COMP,Halgania-solanacea,Halgania solanacea - Halgania,,9
+109,FB_COMP,Haloragis-sp.,Haloragis sp. - Mulga Nettle,,10
+110,FB_COMP,Halosarcia-indica,Halosarcia indica - Samphire,,11
+111,FB_COMP,Heliotropium-brachythrix,Heliotropium brachythrix - Heliotrope,,13
+112,FB_COMP,Heliotropium-conocarpum,Heliotropium conocarpum - Heliotropium conocarpum,,13
+113,FB_COMP,Heliotropium-polycarpaea,Heliotropium polycarpaea - Heliotrope,,13
+114,FB_COMP,Heliotropium-sp.,Heliotropium sp. - Heliotrope,,13
+115,FB_COMP,Heliotropium-tanythrix,Heliotropium tanythrix - Heliotrope,,13
+116,FB_COMP,Heliotropium-tenuifolium,Heliotropium tenuifolium - Heliotrope,,13
+117,FB_COMP,Hibiscus-pentaphyllus,Hibiscus pentaphyllus - Five-Leaflet Hibiscus,,9
+118,FB_COMP,Highenia-lunata,Highenia lunata - Hairy Highenia,,9
+119,FB_COMP,Hyptis-suaveolens,Hyptis suaveolens - Hyptis,,7
+120,FB_COMP,Indigofera-colutea,Indigofera colutea - Sticky Indigo,,11
+121,FB_COMP,Indigofera-linifolia,Indigofera linifolia - Native Indigo,,11
+122,FB_COMP,Indigofera-linnaei,Indigofera linnaei - Birdsville Indigo,,11
+123,FB_COMP,Indigofera-sp.,Indigofera sp - Indigofera,,11
+124,FB_COMP,Ipomoea-muelleri,Ipomoea muelleri - Native Morning Glory,,8
+126,FB_COMP,Ipomoea-polymorpha,Ipomoea polymorpha - Silky Cow-Vine,,8
+125,FB_COMP,Ipomoea-sp.,Ipomoea sp. - Ipomoea sp.,,8
+127,FB_COMP,Ixiochlamys-sp.,Ixiochlamys sp. - Daisy,,12
+128,FB_COMP,Jacquemontia-pannosa,Jacquemontia pannosa - Snake Stem,,13
+129,FB_COMP,Lechenaultia-divaricata,Lechenaultia divaricata - Tangled Lechenaultia,,13
+130,FB_COMP,Lepidium-muelleriferdinandi,Lepidium muelleriferdinandi - Mueller's Peppercress,,9
+131,FB_COMP,Lepidium-phlebopetalum,Lepidium phlebopetalum - Veined Peppercress,,9
+132,FB_COMP,Lepidium-sp.,Lepidium sp. - Peppercress,,9
+133,FB_COMP,Lepidium-strongylophyllum,"Lepidium strongylophyllum - Lepidium, Rare Peppercress, Bull Peppercress",,9
+134,FB_COMP,Leptosema-chambersii,Leptosema chambersii - Leptosema chambersii,,10
+135,FB_COMP,Leucochrysum-fitzgibbonii,Leucochrysum fitzgibbonii - Leucochrysum fitzgibbonii,,13
+136,FB_COMP,Leucochrysum-stipitatum,Leucochrysum stipitatum - Leucochrysum stipitatum,,13
+137,FB_COMP,Ludwigia-perennis,Ludwigia perennis - Upright Primrose,,9
+138,FB_COMP,Maireana-villosa,Maireana villosa - Silky Bluebush,,9
+139,FB_COMP,Malvastrum-americanum,Malvastrum americanum - Malvastrum,,11
+140,FB_COMP,Malvastrum-spicatum,Malvastrum spicatum - Spiked Malvasttum,,11
+141,FB_COMP,Marsilea-drummondii,Marsilea drummondii - Nardoo,,9
+142,FB_COMP,Marsilea-sp.,Marsilea sp. - Nardoo,,9
+143,FB_COMP,Martynia-annua,Martynia annua - Devils Claw (Weed),,9
+144,FB_COMP,Mukia-maderaspatana,Mukia maderaspatana - Red Cucumber,,6
+145,FB_COMP,Neptunia-dimorphantha,Neptunia dimorphantha - Sensitive Plant,,9
+146,FB_COMP,Neptunia-gracilis,Neptunia gracilis - Native Sensitive Plant,,9
+147,FB_COMP,Neptunia-monosperma,Neptunia monosperma - Sensitive Plant,,9
+148,FB_COMP,Neptunia-sp.,Neptunia sp. - Sensitive Plant,,9
+149,FB_COMP,Newcastelia-sp.,Newcastelia sp. - Native Sage,,12
+150,FB_COMP,Operculina-aequisepala,Operculina aequisepala - Onion Vine,,11
+151,FB_COMP,Osteocarpum-salsuginosum,Osteocarpum salsuginosum - Bonefruit,,12
+152,FB_COMP,Passiflora-foetida,Passiflora foetida - Wild Passionfruit,,11
+153,FB_COMP,Peplidium-foecundum,Peplidium foecundum - Peplidium,,10
+154,FB_COMP,Peripleura-hispidula,Peripleura hispidula - Fuzzweed,,11
+155,FB_COMP,Persicaria-attenuata,Persicaria attenuata - Knotweed,,11
+156,FB_COMP,Phyllanthus-maderaspatensis,Phyllanthus maderaspatensis - Spurge,,12
+158,FB_COMP,Phyllanthus-exilis,Phyllanthus exilis - Phyllanthus exilis,,12
+157,FB_COMP,Phyllanthus-sp.,Phyllanthus sp. - Spurge,,12
+159,FB_COMP,Physalis-minima,Physalis minima - Wild Gooseberry,,9
+160,FB_COMP,Pimelea-penicillaris,"Pimelea penicillaris - Pimelea, Sandhill Riceflower",,8
+161,FB_COMP,Pimelea-punicea,Pimelea punicea - Pimelea,,8
+162,FB_COMP,Pimelea-simplex,Pimelea simplex - Rice Flower,,8
+163,FB_COMP,Polycarpaea-longiflora,Polycarpaea longiflora - Red Polycarpaea,,12
+164,FB_COMP,Polycarpaea-spirostylis,Polycarpaea spirostylis - Northern Pretty Polly,,12
+165,FB_COMP,Polymeria-ambigua,Polymeria ambigua - Creeping Bindweed,,10
+166,FB_COMP,Polymeria-longifolia,Polymeria longifolia - Erect Bindweed,,10
+167,FB_COMP,Portulaca-digyna,Portulaca digyna - Pigweed,,10
+168,FB_COMP,Portulaca-oleracea,"Portulaca oleracea - Munyeroo, Pigweed",,10
+169,FB_COMP,Portulaca-sp.,Portulaca sp. - Pigweed,,10
+170,FB_COMP,Psoralea-australascia,Psoralea australascia - Tall Verbine,,9
+171,FB_COMP,Pterocaulon-serrulatum,Pterocaulon serrulatum - Fruit Salad Plant,,12
+172,FB_COMP,Pterocaulon-sphacelatum,Pterocaulon sphacelatum - Fruit Salad Plants,,12
+173,FB_COMP,Ptilotis-sessilifolius,Ptilotis sessilifolius - Crimson Foxtail,,9
+174,FB_COMP,Ptilotus-calostachyus,Ptilotus calostachyus - Weeping Mulla Mulla,,9
+175,FB_COMP,Ptilotus-exaltatus,Ptilotus exaltatus - Lamb's Tail,,9
+176,FB_COMP,Ptilotus-fusiformis,Ptilotus fusiformis - Pom Pom Bottlebrush,,9
+177,FB_COMP,Ptilotus-helipteroides-var.-helipteroides,Ptilotus helipteroides var. helipteroides - Ptilotus helipteroides var. helipteroides,,9
+178,FB_COMP,Ptilotus-macrocephalus,Ptilotus macrocephalus - Large Green Pussytail,,9
+179,FB_COMP,Ptilotus-obovatus,Ptilotus obovatus - Cotton Bush,,9
+180,FB_COMP,Ptilotus-obovatus-var.-griseus,Ptilotus obovatus var. griseus - Ptilotus Obovatus Var. Griseus,,9
+181,FB_COMP,Ptilotus-obovatus-var.-indeterminate,Ptilotus obovatus var. indeterminate - Silver Tails,,9
+182,FB_COMP,Ptilotus-obovatus-var.-obovatus,Ptilotus obovatus var. obovatus - Ptilotus obovatus var. obovatus,,9
+183,FB_COMP,Ptilotus-polystachyus,Ptilotus polystachyus - Green Mulla Mulla,,9
+184,FB_COMP,Ptilotus-schwartzii,Ptilotus schwartzii - Horse Mulla Mulla,,9
+185,FB_COMP,Ptilotus-sp.,Ptilotus sp. - Mulla Mulla,,9
+186,FB_COMP,Ptilotus-spicatus,Ptilotus spicatus - Red Lambs Tail,,9
+188,FB_COMP,Rhodanthe-charsleyae,Rhodanthe charsleyae - Rhodanthe charsleyae,,10
+193,FB_COMP,Rhodanthe-citrina,Rhodanthe citrina - Rhodanthe citrina,,10
+189,FB_COMP,Rhodanthe-floribunda,"Rhodanthe floribunda - White Paper Daisy, White Everlasting",,10
+190,FB_COMP,Rhodanthe-moschata,Rhodanthe moschata - Rhodanthe moschata,,10
+191,FB_COMP,Rhodanthe-sp.,Rhodanthe sp. - Sunray,,10
+192,FB_COMP,Rhodanthe-tietkensii,Rhodanthe tietkensii - Sand Sunray,,10
+194,FB_COMP,Rhynchosia-minima,Rhynchosia minima - Native Pea,,11
+196,FB_COMP,Rostellularia-adscendens,Rostellularia adscendens - Pink Tongues,,14
+197,FB_COMP,Salsola-kali,Salsola kali - Common Saltwort,,8
+198,FB_COMP,Salsola-tragus,Salsola tragus - Roly Poly,,8
+199,FB_COMP,Scaevola-amblyanthera,Scaevola amblyanthera - Fan Flower,,9
+200,FB_COMP,Scaevola-parvibarbata,Scaevola parvibarbata - Small Beard Fanflower,,9
+201,FB_COMP,Scaevola-sp.,Scaevola sp. - Scaevola,,9
+202,FB_COMP,Schoenia-ayersii,Schoenia ayersii - Schoenia,,9
+203,FB_COMP,Schoenia-cassiniana,Schoenia cassiniana - Pink Everlasting,,9
+204,FB_COMP,Sclerochlamys-brachyptera,Sclerochlamys brachyptera - Shortwing Saltbush,,14
+205,FB_COMP,Sclerolaena-sp.,Sclerolaena sp. - Copperburr,,12
+206,FB_COMP,Sclerolaena-bicornis,Sclerolaena bicornis - Goathead Burr,,12
+207,FB_COMP,Sclerolaena-bicornis-var.-bicornis,Sclerolaena bicornis var. bicornis - Goathead Burr,,12
+208,FB_COMP,Sclerolaena-convexula,Sclerolaena convexula - Tall Copper Burr,,12
+209,FB_COMP,Sclerolaena-cornishiana,Sclerolaena cornishiana - Cartwheel Burr,,12
+210,FB_COMP,Sclerolaena-costata,Sclerolaena costata - Copperburr,,12
+211,FB_COMP,Sclerolaena-cuneata,Sclerolaena cuneata - Yellow Bindii,,12
+212,FB_COMP,Sclerolaena-decurrens,Sclerolaena decurrens - Green (Fleshy) Copperburr,,12
+213,FB_COMP,Sclerolaena-diacantha,Sclerolaena diacantha - Grey Copperburr,,12
+214,FB_COMP,Sclerolaena-diachantha,Sclerolaena diachantha - Copperburr,,12
+215,FB_COMP,Sclerolaena-eriacantha,Sclerolaena eriacantha - Tall Bindii,,12
+216,FB_COMP,Sclerolaena-johnsonii,Sclerolaena johnsonii - Johnson's Copperburr,,12
+217,FB_COMP,Sclerolaena-lanicuspis,Sclerolaena lanicuspis - Woolly Copperburr,,12
+218,FB_COMP,Sclerolaena-longicuspis,"Sclerolaena longicuspis - Sclerolaena, Long-Spined Poverty Bush",,12
+219,FB_COMP,Sclerolaena-parallelicuspis,"Sclerolaena parallelicuspis - Sclerolaena, Western Copper Burr",,12
+220,FB_COMP,Sclerolaena-patenticuspis,Sclerolaena patenticuspis - Spear-Fruit Copperburr,,12
+221,FB_COMP,Sclerolaena-sp.,Sclerolaena sp. - Copperburr,,12
+222,FB_COMP,Sclerolaena-birchii,Sclerolaena birchii - Copperburr,,12
+223,FB_COMP,Senecio-magnificus,Senecio magnificus - Tall Yellow Top,,8
+224,FB_COMP,Sesbania-benthamiana,Sesbania benthamiana - Pea Bush,,9
+225,FB_COMP,Sesbania-brachycarpa,Sesbania brachycarpa - Purple Sesbania Pea,,9
+226,FB_COMP,Sesbania-cannabina,Sesbania cannabina - Yellow Pea Bush,,9
+227,FB_COMP,Sesbania-muelleri,Sesbania muelleri - Tall Sesbania Pea,,9
+228,FB_COMP,Sesbania-sp.,Sesbania sp. - Sesbania Pea,,9
+229,FB_COMP,Sida-acuta,Sida acuta - Spinyhead Sida,,5
+230,FB_COMP,Sida-ammophila,Sida ammophila - Sida Ammophila,,5
+231,FB_COMP,Sida-cleisocalyx,Sida cleisocalyx - Sponge Sida,,5
+232,FB_COMP,Sida-cordifolia,Sida cordifolia - Flannel Weed,,5
+233,FB_COMP,Sida-cunninghamii,Sida cunninghamii - Ridged Sida,,5
+234,FB_COMP,Sida-fibulifera,Sida fibulifera - Pin Sida,,5
+235,FB_COMP,Sida-platycalyx,Sida platycalyx - Lifesaver Burr,,5
+236,FB_COMP,Sida-rhombifolia,Sida rhombifolia - Paddy's Lucerne,,5
+237,FB_COMP,Sida-rohlenae,Sida rohlenae - Shrub Sida,,5
+238,FB_COMP,Sida-sp.,Sida sp. - Sida,,5
+242,FB_COMP,Sida-rohlenae,Sida rohlenae - Shrub Sida,,5
+239,FB_COMP,Sida-spinosa,Sida spinosa - Spiny Sida,,5
+241,FB_COMP,Sida-trichopodia,Sida trichopodia - Tall Sida,,5
+243,FB_COMP,Solanum-centrale,Solanum centrale - Australian Desert Raisin,,8
+244,FB_COMP,Solanum-ellipticum,Solanum ellipticum - Potato Bush,,8
+245,FB_COMP,Solanum-esuriale,Solanum esuriale - Quena,,8
+246,FB_COMP,Solanum-lithophilum,Solanum lithophilum - Potato Bush,,8
+247,FB_COMP,Solanum-quadriloculatum,Solanum quadriloculatum - Wild Tomato,,8
+248,FB_COMP,Solanum-sp.,Solanum sp. - Solanum,,8
+249,FB_COMP,Solanum-tumulicola,Solanum tumulicola - Black Soil Wild Tomato,,8
+250,FB_COMP,Spermacoce-argillacea,Spermacoce argillacea - Australian Spermacoce,,11
+251,FB_COMP,Spermacoce-sp.,Spermacoce sp. - Spermacoce,,11
+252,FB_COMP,Sphaeranthus-indicus,Sphaeranthus indicus - Minty Pom Poms,,13
+253,FB_COMP,Stemodia-glabella,Stemodia glabella - Smooth Blue Rod,,9
+254,FB_COMP,Stemodia-grossa,Stemodia grossa - Marsh Stemodia,,9
+255,FB_COMP,Stemodia-lythrifolia,Stemodia lythrifolia - Blue Rod,,9
+256,FB_COMP,Stemodia-sp.,Stemodia sp - Blue Rod,,9
+257,FB_COMP,Stemodia-viscosa,Stemodia viscosa - Sticky Blue Rod,,9
+258,FB_COMP,Stenopetalum-nutans,Stenopetalum nutans - Thread Petal,,13
+259,FB_COMP,Stenopetalum-sp.,Stenopetalum sp. - Stenopetalum,,13
+260,FB_COMP,Stenopetalum-lineare,Stenopetalum lineare - Narrow Thread Petal,,13
+261,FB_COMP,Streptoglossa-adscendens,Streptoglossa adscendens - Mintbush,,14
+262,FB_COMP,Streptoglossa-bubakii,Streptoglossa bubakii - Mint Bush,,14
+263,FB_COMP,Streptoglossa-odora,Streptoglossa odora - Aromatic Daisy,,14
+264,FB_COMP,Stylosanthes-hamata,Stylosanthes hamata - Caribbean Stylo,,13
+265,FB_COMP,Stylosanthes-scabra,Stylosanthes scabra - Seca Stylo,,13
+266,FB_COMP,Stylosanthes-sp.,Stylosanthes sp. - Stylo,,13
+267,FB_COMP,Swainsona-burkei,Swainsona burkei - Hairy Darling Pea,,10
+268,FB_COMP,Swainsona-canescens,Swainsona canescens - Grey Swainsona,,10
+270,FB_COMP,Swainsonia-sp.,Swainsonia sp. - Darling Pea,,11
+271,FB_COMP,Tecticornia-triandra,"Tecticornia triandra - Tecticornia, Desert Glasswort, Samphire",,12
+272,FB_COMP,Tephrosia-rosea,Tephrosia rosea - Flinders River Poison,,10
+273,FB_COMP,Tephrosia-sp.,Tephrosia sp. - Tephrosia,,10
+274,FB_COMP,Tephrosia-sphaerospora,Tephrosia sphaerospora - Mulga Trefoil,,10
+275,FB_COMP,Tephrosia-supine,Tephrosia supine - Tephrosia Supine,,10
+276,FB_COMP,Trachymene-glaucifolia,Trachymene glaucifolia - Blue Parsnip,,11
+277,FB_COMP,Trephrosia-sp.,Trephrosia sp. - Trephrosia,,11
+278,FB_COMP,Trianthema-triquetra,Trianthema triquetra - Red Spinach,,11
+279,FB_COMP,Tribulus-astrocarpus,Tribulus astrocarpus - Star Caltrop,,9
+280,FB_COMP,Tribulus-eichlerianus,Tribulus eichlerianus - Tribulus eichlerianus,,9
+281,FB_COMP,Tribulus-macrocarpus,Tribulus macrocarpus - Tribulus Macrocarpus,,9
+282,FB_COMP,Tribulus-sp.,Tribulus sp. - Tribulus,,9
+283,FB_COMP,Tribulus-terrestris,Tribulus terrestris - Caltrop,,9
+284,FB_COMP,Trichodesma-sp.,Trichodesma sp. - Camel Bush,,12
+285,FB_COMP,Trichodesma-zeylanicum,Trichodesma zeylanicum - Camel Bush,,12
+287,FB_COMP,Triumfetta-plumigera,Triumfetta plumigera - Feathered Burbank,,11
+288,FB_COMP,Triumfetta-sp.,Triumfetta sp. - Burbank,,11
+289,FB_COMP,Vittadinia-sp.,Vittadinia sp. - Fuzzweed,,11
+290,FB_COMP,Vittadinia-sulcata,Vittadinia sulcata - Furrowed New Holland Daisy,,11
+291,FB_COMP,Waltheria-indica,Waltheria indica - Waltheria,,10
+292,FB_COMP,Wedelia-asperrima,Wedelia asperrima - Sunflower Daisy,,8
+294,FB_COMP,Xanthium-pungens,Xanthium pungens - Noogoora Burr,,9
+295,FB_COMP,Xerochrysum-bracteatum,Xerochrysum bracteatum - Golden Everlasting,,12
+296,FB_COMP,Zygophyllum-crassissimum,Zygophyllum crassissimum - Zygophyllum,,12
+297,FB_COMP,Zygophyllum-iodocarpum,Zygophyllum iodocarpum - Violet Twinleaf,,12
+298,FB_COMP,Zygophyllum-prismatothecum,"Zygophyllum prismatothecum - Twinleaf, Square-Fruit Twinleaf",,12
+299,FB_COMP,Zygophyllum-sp.,Zygophyllum sp. - Pale Twinleaf,,12
+300,FB_COMP,other1,Other species 1,,no colon
+301,FB_COMP,other2,Other species 2,,no colon
+302,FB_COMP,other3,Other species 3,,no colon
+303,FB_COMP,other4,Other species 4,,no colon
+0,FB_NORTH,Abelmoschus-ficulneaus,Abelmoschus ficulneaus - Native Rosella,,12
+1,FB_NORTH,Abelmoschus-ficulneus,Abelmoschus ficulneus - Native Rosella,,12
+2,FB_NORTH,Abutilon-hannii,Abutilon hannii - Mallow,,9
+3,FB_NORTH,Abutilon-otocarpum,Abutilon otocarpum - Desert Lantern,,9
+4,FB_NORTH,Abutilon-otocarpus,Abutilon otocarpus - Desert Chinese Lantern,,9
+5,FB_NORTH,Abutilon-sp.,Abutilon sp. - Mallow,,9
+6,FB_NORTH,Achyranthes-aspera,Achyranthes aspera - Chaff Flower,,12
+7,FB_NORTH,Aerva-javanica,Aerva javanica - Kapok Bush,,6
+8,FB_NORTH,Aeschynomene-indica,Aeschynomene indica - Budda Pea,,13
+9,FB_NORTH,Alternanthera-nodiflora,Alternanthera nodiflora - Common Joyweed,,14
+10,FB_NORTH,Ammannia-multiflora,Ammannia multiflora - Jerry Jerry,,9
+11,FB_NORTH,Bergia-perennis,Bergia perennis - Desert Mat,,7
+12,FB_NORTH,Blumea-diffusa,Blumea diffusa - Blumea,,7
+13,FB_NORTH,Blumea-tenella,Blumea tenella - Blumea,,7
+14,FB_NORTH,Boerhavia-diffusa,Boerhavia diffusa - Tar Vine,,10
+15,FB_NORTH,Boerhavia-paludosa,Boerhavia paludosa - Black Soil Tar Vine,,10
+16,FB_NORTH,Boerhavia-schomburgkiana,Boerhavia schomburgkiana - Tar Vine,,10
+17,FB_NORTH,Boerhavia-sp.,Boerhavia sp. - Tar Vine,,10
+18,FB_NORTH,Bonamia-media,Bonamia media - Common Bonamia,,8
+19,FB_NORTH,Bonamia-pannosa,Bonamia pannosa - Large Bonamia,,8
+20,FB_NORTH,Bulbostylis-barbata,Bulbostylis barbata - Dainty Sedge,,12
+21,FB_NORTH,Chamaecrista-rotundifolia,Chamaecrista rotundifolia - Wynn Cassia,,13
+22,FB_NORTH,Chenopodium-auricomum,Chenopodium auricomum - Northern Bluebush,,12
+23,FB_NORTH,Cleome-viscosa,Cleome viscosa - Tickweed,,7
+24,FB_NORTH,Clitorea-ternatea,Clitorea ternatea - Blue Pea,,9
+25,FB_NORTH,Coldenia-procumbens,Coldenia procumbens - Coldenia,,9
+26,FB_NORTH,Commelina-ensifolia,Commelina ensifolia - Wandering Jew,,10
+27,FB_NORTH,Commelina-lanceolata,Commelina lanceolata - Wandering Jew,,10
+28,FB_NORTH,Convolvulus-sp.,Convolvulus sp. - Australian Bindweed,,12
+29,FB_NORTH,Corchorus-sidoides,Corchorus sidoides - Flannel Jute,,10
+30,FB_NORTH,Corchorus-sp.,Corchorus sp. - Jute,,10
+31,FB_NORTH,Cressa-cretica,Cressa cretica - Rosinweed,,7
+32,FB_NORTH,Crotalaria-crispata,Crotalaria crispata - Kimberley Horse Poison,,11
+33,FB_NORTH,Crotalaria-dissitiflora,Crotalaria dissitiflora - Grey Rattlepod,,11
+34,FB_NORTH,Crotalaria-medicaginea,Crotalaria medicaginea - Trefoil Rattlepod,,11
+35,FB_NORTH,Crotalaria-montana,Crotalaria montana - Rattlepod,,11
+36,FB_NORTH,Crotalaria-novae-hollandiae,Crotalaria novae-hollandiae - New Holland Rattlepod,,11
+37,FB_NORTH,Crotalaria-sp.,Crotalaria sp. - Rattlepod,,11
+38,FB_NORTH,Cucumis-melo,Cucumis melo - Bush Cucumber,,8
+39,FB_NORTH,Cullen-australasicum,Cullen australasicum - Tall Verbine,,7
+40,FB_NORTH,Cullen-cinereum,Cullen cinereum - Annual Verbine,,7
+41,FB_NORTH,Cyperus-bifax,Cyperus bifax - Downs Nutgrass,,8
+42,FB_NORTH,Cyperus-sp.,Cyperus sp. - Sedge,,8
+44,FB_NORTH,Datura-ferox,Datura ferox - Thornapple,,7
+45,FB_NORTH,Desmodium-muelleri,Desmodium muelleri - Mueller's Necklace Pea,,10
+46,FB_NORTH,Euphorbia-tannensis,Euphorbia tannensis - Desert Spurge,,10
+47,FB_NORTH,Fimbristylis-dichotoma,Fimbristylis dichotoma - Eight Day Sedge,,13
+48,FB_NORTH,Fimbristylis-phaeoleuca,Fimbristylis phaeoleuca - Sedge,,13
+49,FB_NORTH,Fimbristylis-simulans,Fimbristylis simulans - Desert Fringe Rush,,13
+50,FB_NORTH,Fimbristylis-sp.,Fimbristylis sp. - Sedge,,13
+51,FB_NORTH,Flaveria-australasica,Flaveria australasica - Speedy Weed,,9
+52,FB_NORTH,Flemingia-pauciflora,Flemingia pauciflora - Flemings Bush,,10
+53,FB_NORTH,Flemingia-paucifolia,Flemingia paucifolia - Flemings Bush,,10
+54,FB_NORTH,Glycine-falcata,Glycine falcata - Fringed Glycine,,8
+55,FB_NORTH,Gomphrena-breviflora,Gomphrena breviflora - White Gomphrena,,10
+56,FB_NORTH,Gomphrena-canescens,Gomphrena canescens - Batchelor’S Buttons,,10
+57,FB_NORTH,Gomphrena-conica,Gomphrena conica - Fluffy Gomphrena,,10
+58,FB_NORTH,Gomphrena-lanata,Gomphrena lanata - Husband's Buttons,,10
+59,FB_NORTH,Gomphrena-sp.,Gomphrena sp. - Gomphrena,,10
+60,FB_NORTH,Goodenia-lunata,Goodenia lunata - Hairy Goodenia,,9
+61,FB_NORTH,Goodenia-ramelii,Goodenia ramelii - Goodenia,,9
+62,FB_NORTH,Goodenia-scaevolina,Goodenia scaevolina - Blue Fan Flower,,9
+63,FB_NORTH,Goodenia-sp.,Goodenia sp. - Goodenia,,9
+64,FB_NORTH,Goodenia-strangfordii,Goodenia strangfordii - Wide-Leaved Goodenia,,9
+65,FB_NORTH,Grewia-retusifolia,"Grewia retusifolia - Emu Bush, Dogs Balls",,7
+66,FB_NORTH,Halgania-solanacea,Halgania solanacea - Halgania,,9
+67,FB_NORTH,Halosarcia-indica,Halosarcia indica - Samphire,,11
+68,FB_NORTH,Heliotropium-brachythrix,Heliotropium brachythrix - Heliotrope,,13
+69,FB_NORTH,Heliotropium-polycarpaea,Heliotropium polycarpaea - Heliotrope,,13
+70,FB_NORTH,Heliotropium-sp.,Heliotropium sp. - Heliotrope,,13
+71,FB_NORTH,Heliotropium-tanythrix,Heliotropium tanythrix - Heliotrope,,13
+72,FB_NORTH,Heliotropium-tenuifolium,Heliotropium tenuifolium - Heliotrope,,13
+73,FB_NORTH,Hibiscus-pentaphyllus,Hibiscus pentaphyllus - Five-Leaflet Hibiscus,,9
+74,FB_NORTH,Highenia-lunata,Highenia lunata - Hairy Highenia,,9
+75,FB_NORTH,Hyptis-suaveolens,Hyptis suaveolens - Hyptis,,7
+76,FB_NORTH,Indigofera-linifolia,Indigofera linifolia - Native Indigo,,11
+77,FB_NORTH,Indigofera-linnaei,Indigofera linnaei - Birdsville Indigo,,11
+78,FB_NORTH,Ipomoea-muelleri,Ipomoea muelleri - Native Morning Glory,,8
+79,FB_NORTH,Jacquemontia-pannosa,Jacquemontia pannosa - Snake Stem,,13
+80,FB_NORTH,Ludwigia-perennis,Ludwigia perennis - Upright Primrose,,9
+81,FB_NORTH,Maireana-villosa,Maireana villosa - Silky Bluebush,,9
+82,FB_NORTH,Malvastrum-americanum,Malvastrum americanum - Malvastrum,,11
+83,FB_NORTH,Malvastrum-spicatum,Malvastrum spicatum - Spiked Malvasttum,,11
+84,FB_NORTH,Marsilea-drummondii,Marsilea drummondii - Common Nardoo,,9
+85,FB_NORTH,Marsilea-sp.,Marsilea sp. - Nardoo,,9
+86,FB_NORTH,Martynia-annua,Martynia annua - Devils Claw (Weed),,9
+87,FB_NORTH,Mukia-maderaspatana,Mukia maderaspatana - Red Cucumber,,6
+88,FB_NORTH,Neptunia-dimorphantha,Neptunia dimorphantha - Sensitive Plant,,9
+89,FB_NORTH,Neptunia-gracilis,Neptunia gracilis - Native Sensitive Plant,,9
+90,FB_NORTH,Neptunia-monosperma,Neptunia monosperma - Sensitive Plant,,9
+91,FB_NORTH,Neptunia-sp.,Neptunia sp. - Sensitive Plant,,9
+92,FB_NORTH,Newcastelia-sp.,Newcastelia sp. - Native Sage,,12
+93,FB_NORTH,Operculina-aequisepala,Operculina aequisepala - Onion Vine,,11
+94,FB_NORTH,Passiflora-foetida,Passiflora foetida - Wild Passionfruit,,11
+95,FB_NORTH,Peripleura-hispidula,Peripleura hispidula - Fuzzweed,,11
+96,FB_NORTH,Persicaria-attenuata,Persicaria attenuata - Knotweed,,11
+97,FB_NORTH,Phyllanthus-maderaspatensis,Phyllanthus maderaspatensis - Spurge,,12
+98,FB_NORTH,Physalis-minima,Physalis minima - Wild Gooseberry,,9
+99,FB_NORTH,Pimelea-punicea,Pimelea punicea - Pimelea,,8
+100,FB_NORTH,Polycarpaea-longiflora,Polycarpaea longiflora - Red Polycarpaea,,12
+101,FB_NORTH,Polycarpaea-spirostylis,Polycarpaea spirostylis - Northern Pretty Polly,,12
+102,FB_NORTH,Polymeria-ambigua,Polymeria ambigua - Creeping Bindweed,,10
+103,FB_NORTH,Polymeria-longifolia,Polymeria longifolia - Erect Bindweed,,10
+104,FB_NORTH,Portulaca-digyna,Portulaca digyna - Pigweed,,10
+105,FB_NORTH,Portulaca-sp.,Portulaca sp. - Pigweed,,10
+106,FB_NORTH,Psoralea-australascia,Psoralea australascia - Tall Verbine,,9
+107,FB_NORTH,Pterocaulon-serrulatum,Pterocaulon serrulatum - Fruit Salad Plant,,12
+108,FB_NORTH,Pterocaulon-sphacelatum,Pterocaulon sphacelatum - Fruit Salad Plant,,12
+109,FB_NORTH,Ptilotus-calostachyus,Ptilotus calostachyus - Weeping Mulla Mulla,,9
+110,FB_NORTH,Ptilotus-exaltatus,Ptilotus exaltatus - Lamb's Tail,,9
+111,FB_NORTH,Ptilotus-fusiformis,Ptilotus fusiformis - Pom Pom Bottlebrush,,9
+112,FB_NORTH,Ptilotus-macrocephalus,Ptilotus macrocephalus - Large Green Pussytail,,9
+113,FB_NORTH,Ptilotus-obovatus,Ptilotus obovatus - Smoke Bush,,9
+114,FB_NORTH,Ptilotus-polystachyus,Ptilotus polystachyus - Long Tails,,9
+115,FB_NORTH,Ptilotus-schwartzii,Ptilotus schwartzii - Horse Mulla Mulla,,9
+116,FB_NORTH,Ptilotus-sp.,Ptilotus sp. - Mulla Mulla,,9
+117,FB_NORTH,Ptilotus-spicatus,Ptilotus spicatus - Red Lambs Tail,,9
+118,FB_NORTH,Rhynchosia-minima,Rhynchosia minima - Native Pea,,11
+120,FB_NORTH,Rostellularia-adscendens,Rostellularia adscendens - Pink Tongues,,14
+121,FB_NORTH,Scaevola-amblyanthera,Scaevola amblyanthera - Fan Flower,,9
+122,FB_NORTH,Scaevola-sp.,Scaevola sp. - Fan Flower,,9
+123,FB_NORTH,Sclerolaena-bicornis,Sclerolaena bicornis - Goathead Burr,,12
+124,FB_NORTH,Sclerolaena-sp.,Sclerolaena sp. - Copper Burr,,12
+125,FB_NORTH,Sesbania-benthamiana,Sesbania benthamiana - Pea Bush,,9
+126,FB_NORTH,Sesbania-brachycarpa,Sesbania brachycarpa - Purple Sesbania Pea,,9
+127,FB_NORTH,Sesbania-cannabina,Sesbania cannabina - Yellow Pea Bush,,9
+128,FB_NORTH,Sesbania-muelleri,Sesbania muelleri - Tall Sesbania Pea,,9
+129,FB_NORTH,Sesbania-sp.,Sesbania sp. - Sesbania Pea,,9
+130,FB_NORTH,Sida-acuta,Sida acuta - Spinyhead Sida,,5
+131,FB_NORTH,Sida-cleisocalyx,Sida cleisocalyx - Sponge Sida,,5
+132,FB_NORTH,Sida-cordifolia,Sida cordifolia - Flannel Weed,,5
+133,FB_NORTH,Sida-fibulifera,Sida fibulifera - Pin Sida,,5
+134,FB_NORTH,Sida-platycalyx,Sida platycalyx - Teddy Bears Arsehole,,5
+135,FB_NORTH,Sida-rhombifolia,Sida rhombifolia - Paddy's Lucerne,,5
+136,FB_NORTH,Sida-sp.,Sida sp. - Sida,,5
+137,FB_NORTH,Sida-spinosa,Sida spinosa - Spiny Sida,,5
+138,FB_NORTH,Sida-trichopoda,Sida trichopoda - High Sida,,5
+139,FB_NORTH,Sida-trichopodia,Sida trichopodia - Tall Sida,,5
+140,FB_NORTH,Solanum-ellipticum,Solanum ellipticum - Potato Bush,,8
+141,FB_NORTH,Solanum-esuriale,Solanum esuriale - Quena,,8
+142,FB_NORTH,Solanum-quadriloculatum,Solanum quadriloculatum - Wild Tomato,,8
+143,FB_NORTH,Solanum-sp.,Solanum sp. - Wild Tomato,,8
+144,FB_NORTH,Solanum-tumulicola,Solanum tumulicola - Black Soil Wild Tomato,,8
+145,FB_NORTH,Spermacoce-argillacea,Spermacoce argillacea - Australian Spermacoce,,11
+146,FB_NORTH,Spermacoce-sp.,Spermacoce sp. - Spermacoce,,11
+147,FB_NORTH,Sphaeranthus-indicus,Sphaeranthus indicus - Minty Pom Poms,,13
+148,FB_NORTH,Stemodia-glabella,Stemodia glabella - Smooth Blue Rod,,9
+149,FB_NORTH,Stemodia-grossa,Stemodia grossa - Marsh Stemodia,,9
+150,FB_NORTH,Stemodia-lythrifolia,Stemodia lythrifolia - Blue Rod,,9
+151,FB_NORTH,Stemodia-sp.,Stemodia sp - Blue Rod,,9
+152,FB_NORTH,Stemodia-viscosa,Stemodia viscosa - Sticky Blue Rod,,9
+153,FB_NORTH,Streptoglossa-adscendens,Streptoglossa adscendens - Desert Daisy,,14
+154,FB_NORTH,Streptoglossa-bubakii,Streptoglossa bubakii - Mint Bush,,14
+155,FB_NORTH,Streptoglossa-odora,Streptoglossa odora - Aromatic Daisy,,14
+156,FB_NORTH,Stylosanthes-hamata,Stylosanthes hamata - Caribbean Stylo,,13
+157,FB_NORTH,Stylosanthes-scabra,Stylosanthes scabra - Seca Stylo,,13
+158,FB_NORTH,Stylosanthes-sp.,Stylosanthes sp. - Stylo,,13
+159,FB_NORTH,Tephrosia-rosea,Tephrosia rosea - Flinders River Poison,,10
+160,FB_NORTH,Tephrosia-sp.,Tephrosia sp. - Tephrosia,,10
+161,FB_NORTH,Trichodesma-zeylanicum,Trichodesma zeylanicum - Camel Bush,,12
+163,FB_NORTH,Triumfetta-plumigera,Triumfetta plumigera - Feathered Burbank,,11
+164,FB_NORTH,Triumfetta-sp.,Triumfetta sp. - Burbank,,11
+165,FB_NORTH,Waltheria-indica,Waltheria indica - Waltheria,,10
+166,FB_NORTH,Wedelia-asperrima,Wedelia asperrima - Sunflower Daisy,,8
+168,FB_NORTH,Xanthium-pungens,Xanthium pungens - Noogoora Burr,,9
+169,FB_NORTH,other1,Other species 1,,no colon
+170,FB_NORTH,other2,Other species 2,,no colon
+171,FB_NORTH,other3,Other species 3,,no colon
+172,FB_NORTH,other4,Other species 4,,no colon
+0,FB_SOUTH,Abutilon-leucopetalum,Abutilon leucopetalum - Lantern Bush,,9
+1,FB_SOUTH,Abutilon-otocarpum,Abutilon otocarpum - Desert Chinese Lantern,,9
+2,FB_SOUTH,Abutilon-sp.,Abutilon sp. - Abutilon,,9
+3,FB_SOUTH,Achyranthes-aspera,Achyranthes aspera - Chaff Flower,,12
+4,FB_SOUTH,Alternanthera-nodiflora,Alternanthera nodiflora - Common Joyweed,,14
+5,FB_SOUTH,Aluta-maisonneuvei-subsp.-maisonneuvei,Aluta maisonneuvei subsp. maisonneuvei - Aluta maisonneuvei subsp. Maisonneuvei,,6
+6,FB_SOUTH,Arabidella-glaucescens,Arabidella glaucescens - Arabidella,,11
+7,FB_SOUTH,Aster-sp.,Aster sp. - Aster sp.,,6
+8,FB_SOUTH,Blennodia-canescens,Blennodia canescens - Native Stock,,10
+9,FB_SOUTH,Boerhavia-coccinea,Boerhavia coccinea - Scarlet Spiderling,,10
+10,FB_SOUTH,Boerhavia-sp.,Boerhavia sp - Tarvine,,10
+11,FB_SOUTH,Bonamia-media,Bonamia media - Common Bonamia,,8
+13,FB_SOUTH,Brachyscome-ciliaris,"Brachyscome ciliaris - Brachyscome, Variable Daisy",,12
+14,FB_SOUTH,Brachyscome-ciliaris-var.-lanuginosa,Brachyscome ciliaris var. lanuginosa - Brachyscome Ciliaris Var. Lanuginosa,,12
+12,FB_SOUTH,Brachyscome-sp.,Brachyscome - Daisy,,12
+15,FB_SOUTH,Calandrinia-balonensis,Calandrinia balonensis - Broad-Leaf Parrakeelya,,12
+16,FB_SOUTH,Calandrinia-disperma,Calandrinia disperma - Calandrinia,,12
+17,FB_SOUTH,Calandrinia-sp.,Calandrinia sp. - Parakeelya Sp,,12
+18,FB_SOUTH,Calandrinia-reticulata,Calandrinia reticulata - Calandrinia Reticulata,,12
+19,FB_SOUTH,Calocephalus-platycephalus,Calocephalus platycephalus - Yellow Billy Buttons,,13
+20,FB_SOUTH,Calotis-hispidula,Calotis hispidula - Bogan Flea,,8
+21,FB_SOUTH,Cheilanthes-lasiophylla,Cheilanthes lasiophylla - Woolly Cloak Fren,,12
+22,FB_SOUTH,Cheilanthes-seiberi,Cheilanthes seiberi - Mulga Fern,,12
+23,FB_SOUTH,Chrysocephalum-apiculatum,Chrysocephalum apiculatum - Common Everlasting,,15
+24,FB_SOUTH,Chthonocephalus-pseudevax,"Chthonocephalus pseudevax - Chthonocephalus, Ground-Heads",,16
+25,FB_SOUTH,Citrullus-lanatus,Citrullus lanatus - Wild Melon,,10
+26,FB_SOUTH,Citrullus-sp.,Citrullus sp. - Melon,,10
+27,FB_SOUTH,Cleome-viscosa,Cleome viscosa - Tickweed,,7
+28,FB_SOUTH,Convolvulus-clementii,Convolvulus clementii - Bindweed,,12
+29,FB_SOUTH,Convolvulus-remotus,Convolvulus remotus - Convolvulus Remotus,,12
+30,FB_SOUTH,Crotalaria-eremaea-subsp.-eremaea,"Crotalaria eremaea subsp. eremaea - Crotalaria, Desert Rattlepod, Rattlepod",,11
+31,FB_SOUTH,Crotalaria-medicaginea-var.-indeterminate,Crotalaria medicaginea var. indeterminate - Crotalaria medicaginea var. indeterminate,,11
+32,FB_SOUTH,Crotalaria-sp.,Crotalaria sp. - Crotalaria sp.,,11
+33,FB_SOUTH,Dissocarpus-paradoxus,Dissocarpus paradoxus - Cannonball Burr,,12
+34,FB_SOUTH,Dodonaea-viscosa-subsp.-angustissima,Dodonaea viscosa subsp. angustissima - Sticky Hopbush,,9
+35,FB_SOUTH,Dysphania-melanocarpa,Dysphania melanocarpa - Black Crumbweed,,10
+36,FB_SOUTH,Ehretia-saligna,Ehretia saligna - Coonta,,8
+37,FB_SOUTH,Einadia-nutans,Einadia nutans - Climbing Saltbush,,8
+38,FB_SOUTH,Eremophea-spinosa,Eremophea spinosa - Eremophea spinosa,,10
+39,FB_SOUTH,Erodium-angustilobum,Erodium angustilobum - Erodium,,8
+40,FB_SOUTH,Erodium-cygnorum,Erodium cygnorum - Blue Crowfoot,,8
+44,FB_SOUTH,Euphorbia-drummondii,Euphorbia drummondii - Caustic Weed,,10
+42,FB_SOUTH,Euphorbia-sp.,Euphorbia sp. - Euphorbia sp.,,10
+43,FB_SOUTH,Euphorbia-tannensis-subsp.-eremophila,Euphorbia tannensis subsp. Eremophila - Desert Spurge,,10
+45,FB_SOUTH,Euphorbia-tannensis,Euphorbia tannensis - Desert Spurge,,10
+46,FB_SOUTH,Evolvulus-alsinoides,Evolvulus alsinoides - Dwarf Morning Glory,,10
+47,FB_SOUTH,Evolvulus-alsinoides-var.-indeterminate,Evolvulus alsinoides var. indeterminate - Tropical Speedwell,,10
+48,FB_SOUTH,Frankenia-sp.,Frankenia sp. - Sea Heath,,10
+49,FB_SOUTH,Goodenia-lunata,Goodenia lunata - Hairy Goodenia,,9
+50,FB_SOUTH,Goodenia-ramelii,Goodenia ramelii - Goodenia Ramelii,,9
+52,FB_SOUTH,Goodenia-cycloptera,Goodenia cycloptera - Serrated Goodenia,,9
+51,FB_SOUTH,Goodenia-sp.,Goodenia sp. - Goodenia sp.,,9
+53,FB_SOUTH,Haloragis-sp.,Haloragis sp. - Mulga Nettle,,10
+54,FB_SOUTH,Heliotropium-conocarpum,Heliotropium conocarpum - Heliotropium conocarpum,,13
+55,FB_SOUTH,Heliotropium-sp.,Heliotropium sp. - Heliotrope,,13
+56,FB_SOUTH,Indigofera-colutea,Indigofera colutea - Sticky Indigo,,11
+57,FB_SOUTH,Indigofera-linifolia,Indigofera linifolia - Native Indigo,,11
+58,FB_SOUTH,Indigofera-linnaei,Indigofera linnaei - Birdsville Indigo,,11
+59,FB_SOUTH,Indigofera-sp.,Indigofera sp - Indigofera,,11
+61,FB_SOUTH,Ipomoea-polymorpha,Ipomoea polymorpha - Silky Cow-Vine,,8
+60,FB_SOUTH,Ipomoea-sp.,Ipomoea sp. - Ipomoea,,8
+62,FB_SOUTH,Ixiochlamys-sp.,Ixiochlamys sp. - Daisy,,12
+63,FB_SOUTH,Lechenaultia-divaricata,Lechenaultia divaricata - Tangled Lechenaultia,,13
+64,FB_SOUTH,Lepidium-muelleriferdinandi,Lepidium muelleriferdinandi - Mueller's Peppercress,,9
+65,FB_SOUTH,Lepidium-phlebopetalum,Lepidium phlebopetalum - Veined Peppercress,,9
+66,FB_SOUTH,Lepidium-sp.,Lepidium sp. - Peppercress,,9
+67,FB_SOUTH,Lepidium-strongylophyllum,"Lepidium strongylophyllum - Lepidium, Rare Peppercress, Bull Peppercress",,9
+68,FB_SOUTH,Leptosema-chambersii,Leptosema chambersii - Leptosema chambersii,,10
+69,FB_SOUTH,Leucochrysum-fitzgibbonii,Leucochrysum fitzgibbonii - Leucochrysum fitzgibbonii,,13
+70,FB_SOUTH,Leucochrysum-stipitatum,Leucochrysum stipitatum - Leucochrysum stipitatum,,13
+71,FB_SOUTH,Malvastrum-americanum,Malvastrum americanum - Malvastrum,,11
+72,FB_SOUTH,Marsilea-drummondii,Marsilea drummondii - Nardoo,,9
+73,FB_SOUTH,Neptunia-monosperma,Neptunia monosperma - Sensitive Plant,,9
+74,FB_SOUTH,Osteocarpum-salsuginosum,Osteocarpum salsuginosum - Bonefruit,,12
+75,FB_SOUTH,Peplidium-foecundum,Peplidium foecundum - Peplidium,,10
+77,FB_SOUTH,Phyllanthus-exilis,Phyllanthus exilis - Phyllanthus exilis,,12
+76,FB_SOUTH,Phyllanthus-sp.,Phyllanthus sp. - Spurge,,12
+78,FB_SOUTH,Pimelea-penicillaris,"Pimelea penicillaris - Pimelea, Sandhill Riceflower",,8
+79,FB_SOUTH,Pimelea-simplex,Pimelea simplex - Rice Flower,,8
+80,FB_SOUTH,Portulaca-oleracea,"Portulaca oleracea - Munyeroo, Pigweed",,10
+81,FB_SOUTH,Portulaca-sp.,Portulaca sp. - Pigweed,,10
+82,FB_SOUTH,Pterocaulon-sphacelatum,Pterocaulon sphacelatum - Fruit Salad Plants,,12
+83,FB_SOUTH,Ptilotis-sessilifolius,Ptilotis sessilifolius - Crimson Foxtail,,9
+84,FB_SOUTH,Ptilotus-helipteroides-var.-helipteroides,Ptilotus helipteroides var. helipteroides - Ptilotus helipteroides var. helipteroides,,9
+85,FB_SOUTH,Ptilotus-obovatus,Ptilotus obovatus - Cotton Bush,,9
+86,FB_SOUTH,Ptilotus-obovatus-var.-griseus,Ptilotus obovatus var. griseus - Ptilotus obovatus var. griseus,,9
+87,FB_SOUTH,Ptilotus-obovatus-var.-indeterminate,Ptilotus obovatus var. indeterminate - Silver Tails,,9
+88,FB_SOUTH,Ptilotus-obovatus-var.-obovatus,Ptilotus obovatus var. obovatus - Ptilotus obovatus var. obovatus,,9
+89,FB_SOUTH,Ptilotus-polystachyus,Ptilotus polystachyus - Green Mulla Mulla,,9
+90,FB_SOUTH,Ptilotus-sp.,Ptilotus sp. - Mulla Mulla,,9
+91,FB_SOUTH,Ptilotus-polystachyus,Ptilotus polystachyus - Prince Of Wales Feather,,9
+92,FB_SOUTH,Rhodanthe-charsleyae,Rhodanthe charsleyae - Rhodanthe charsleyae,,10
+97,FB_SOUTH,Rhodanthe-citrina,Rhodanthe citrina - Rhodanthe citrina,,10
+93,FB_SOUTH,Rhodanthe-floribunda,"Rhodanthe floribunda - White Paper Daisy, White Everlasting",,10
+94,FB_SOUTH,Rhodanthe-moschata,Rhodanthe moschata - Rhodanthe moschata,,10
+95,FB_SOUTH,Rhodanthe-sp.,Rhodanthe sp. - Sunray,,10
+96,FB_SOUTH,Rhodanthe-tietkensii,Rhodanthe tietkensii - Sand Sunray,,10
+98,FB_SOUTH,Rhynchosia-minima,Rhynchosia minima - Native Pea,,11
+99,FB_SOUTH,Salsola-kali,Salsola kali - Common Saltwort,,8
+100,FB_SOUTH,Salsola-tragus,Salsola tragus - Roly Poly,,8
+101,FB_SOUTH,Scaevola-parvibarbata,Scaevola parvibarbata - Small Beard Fanflower,,9
+102,FB_SOUTH,Scaevola-sp.,Scaevola sp. - Scaevola,,9
+103,FB_SOUTH,Schoenia-ayersii,Schoenia ayersii - Schoenia,,9
+104,FB_SOUTH,Schoenia-cassiniana,Schoenia cassiniana - Pink Everlasting,,9
+105,FB_SOUTH,Sclerochlamys-brachyptera,Sclerochlamys brachyptera - Shortwing Saltbush,,14
+106,FB_SOUTH,Sclerolaena-Sp.,Sclerolaena Sp - Copperburr,,12
+107,FB_SOUTH,Sclerolaena-bicornis,Sclerolaena bicornis - Goathead Burr,,12
+108,FB_SOUTH,Sclerolaena-bicornis-var.-bicornis,Sclerolaena bicornis var. bicornis - Goathead Burr,,12
+123,FB_SOUTH,Sclerolaena-birchii,Sclerolaena birchii - Copperburr,,12
+109,FB_SOUTH,Sclerolaena-convexula,Sclerolaena convexula - Tall Copper Burr,,12
+110,FB_SOUTH,Sclerolaena-cornishiana,Sclerolaena cornishiana - Cartwheel Burr,,12
+111,FB_SOUTH,Sclerolaena-costata,Sclerolaena costata - Copperburr,,12
+112,FB_SOUTH,Sclerolaena-cuneata,Sclerolaena cuneata - Yellow Bindii,,12
+113,FB_SOUTH,Sclerolaena-decurrens,Sclerolaena decurrens - Green (Fleshy) Copperburr,,12
+114,FB_SOUTH,Sclerolaena-diacantha,Sclerolaena diacantha - Grey Copperburr,,12
+115,FB_SOUTH,Sclerolaena-diachantha,Sclerolaena diachantha - Copperburr,,12
+116,FB_SOUTH,Sclerolaena-eriacantha,Sclerolaena eriacantha - Tall Bindii,,12
+117,FB_SOUTH,Sclerolaena-johnsonii,Sclerolaena johnsonii - Johnson's Copperburr,,12
+118,FB_SOUTH,Sclerolaena-lanicuspis,Sclerolaena lanicuspis - Woolly Copperburr,,12
+119,FB_SOUTH,Sclerolaena-longicuspis,"Sclerolaena longicuspis - Sclerolaena, Long-Spined Poverty Bush",,12
+120,FB_SOUTH,Sclerolaena-parallelicuspis,"Sclerolaena parallelicuspis - Sclerolaena, Western Copper Burr",,12
+121,FB_SOUTH,Sclerolaena-patenticuspis,Sclerolaena patenticuspis - Spear-Fruit Copperburr,,12
+122,FB_SOUTH,Sclerolaena-sp.,Sclerolaena sp. - Copperburr,,12
+124,FB_SOUTH,Senecio-magnificus,Senecio magnificus - Tall Yellow Top,,8
+125,FB_SOUTH,Sida-ammophila,Sida ammophila - Sida Ammophila,,5
+126,FB_SOUTH,Sida-cunninghamii,Sida cunninghamii - Ridged Sida,,5
+127,FB_SOUTH,Sida-fibulifera,Sida fibulifera - Pin Sida,,5
+128,FB_SOUTH,Sida-platycalyx,Sida platycalyx - Lifesaver Burr,,5
+129,FB_SOUTH,Sida-rohlenae,Sida rohlenae - Shrub Sida,,5
+130,FB_SOUTH,Sida-sp.,Sida sp. - Sida,,5
+131,FB_SOUTH,Sida-spinosa,Sida spinosa - Spiny Sida,,5
+132,FB_SOUTH,Sida-rohlenae,Sida rohlenae - Shrub Sida,,5
+133,FB_SOUTH,Solanum-centrale,Solanum centrale - Australian Desert Raisin,,8
+134,FB_SOUTH,Solanum-ellipticum,Solanum ellipticum - Potato Bush,,8
+135,FB_SOUTH,Solanum-lithophilum,Solanum lithophilum - Potato Bush,,8
+136,FB_SOUTH,Solanum-quadriloculatum,Solanum quadriloculatum - Wild Tomato,,8
+137,FB_SOUTH,Solanum-sp.,Solanum sp. - Solanum,,8
+138,FB_SOUTH,Stenopetalum-nutans,Stenopetalum nutans - Thread Petal,,13
+139,FB_SOUTH,Stenopetalum-sp.,Stenopetalum sp. - Stenopetalum,,13
+140,FB_SOUTH,Stenopetalum-lineare,Stenopetalum lineare - Narrow Thread Petal,,13
+141,FB_SOUTH,Streptoglossa-adscendens,Streptoglossa adscendens - Mintbush,,14
+142,FB_SOUTH,Swainsona-burkei,Swainsona burkei - Hairy Darling Pea,,10
+143,FB_SOUTH,Swainsona-canescens,Swainsona canescens - Grey Swainsona,,10
+145,FB_SOUTH,Swainsonia-sp.,Swainsonia sp. - Darling Pea,,11
+146,FB_SOUTH,Tecticornia-triandra,"Tecticornia triandra - Tecticornia, Desert Glasswort, Samphire",,12
+150,FB_SOUTH,Trephrosia-sp.,Trephrosia sp. - Trephrosia,,11
+147,FB_SOUTH,Tephrosia-sphaerospora,Tephrosia sphaerospora - Mulga Trefoil,,10
+148,FB_SOUTH,Tephrosia-supine,Tephrosia supine - Tephrosia Supine,,10
+149,FB_SOUTH,Trachymene-glaucifolia,Trachymene glaucifolia - Blue Parsnip,,11
+151,FB_SOUTH,Trianthema-triquetra,Trianthema triquetra - Red Spinach,,11
+152,FB_SOUTH,Tribulus-astrocarpus,Tribulus astrocarpus - Star Caltrop,,9
+153,FB_SOUTH,Tribulus-eichlerianus,Tribulus eichlerianus - Tribulus eichlerianus,,9
+154,FB_SOUTH,Tribulus-macrocarpus,Tribulus macrocarpus - Tribulus Macrocarpus,,9
+155,FB_SOUTH,Tribulus-sp.,Tribulus sp. - Tribulus,,9
+156,FB_SOUTH,Tribulus-terrestris,Tribulus terrestris - Caltrop,,9
+157,FB_SOUTH,Trichodesma-sp.,Trichodesma sp. - Camel Bush,,12
+158,FB_SOUTH,Vittadinia-sp.,Vittadinia sp. - Fuzzweed,,11
+159,FB_SOUTH,Vittadinia-sulcata,Vittadinia sulcata - Furrowed New Holland Daisy,,11
+160,FB_SOUTH,Xerochrysum-bracteatum,Xerochrysum bracteatum - Golden Everlasting,,12
+161,FB_SOUTH,Zygophyllum-crassissimum,Zygophyllum crassissimum - Zygophyllum,,12
+162,FB_SOUTH,Zygophyllum-iodocarpum,Zygophyllum iodocarpum - Violet Twinleaf,,12
+163,FB_SOUTH,Zygophyllum-prismatothecum,"Zygophyllum prismatothecum - Twinleaf, Square-Fruit Twinleaf",,12
+164,FB_SOUTH,Zygophyllum-sp.,Zygophyllum sp. - Pale Twinleaf,,12
+165,FB_SOUTH,other1,Other species 1,,no colon
+166,FB_SOUTH,other2,Other species 2,,no colon
+167,FB_SOUTH,other3,Other species 3,,no colon
+168,FB_SOUTH,other4,Other species 4,,no colon

@@ -1,0 +1,215 @@
+,list_name,name,label
+0,PG_COMP,Amphipogon-caricinus,Amphipogon caricinus - Long Greybeard Grass
+1,PG_COMP,Andropogon-gayanus,Andropogon gayanus - Gamba Grass
+2,PG_COMP,Aristida-biglandulosa,Aristida biglandulosa - Two Gland Three Awn
+3,PG_COMP,Aristida-contorta,Aristida contorta - Bunched Kerosene Grass
+4,PG_COMP,Aristida-exserta,Aristida exserta - Aristida Exserta
+5,PG_COMP,Aristida-holathera,Aristida holathera - Erect Kerosene Grass
+6,PG_COMP,Aristida-hygrometrica,Aristida hygrometrica - Northern Kerosene Grass
+7,PG_COMP,Aristida-inaequiglumis,Aristida inaequiglumis - Curly Wiregrass (Unequal Threeawn)
+8,PG_COMP,Aristida-ingrata,Aristida ingrata - Equal Three-Awn
+9,PG_COMP,Aristida-latifolia,Aristida latifolia - Feathertop Wiregrass
+10,PG_COMP,Aristida-pruinosa,Aristida pruinosa - Gulf Wiregrass
+11,PG_COMP,Aristida-strigosa,Aristida strigosa - Rough Threeawn (Rough Wiregrass)
+12,PG_COMP,Astrebla-pectinata,Astrebla pectinata - Barley Mitchell Grass
+13,PG_COMP,Bothriochloa-pertusa,Bothriochloa pertusa - Indian Bluegrass
+14,PG_COMP,Chionachne-cyathopoda,Chionachne cyathopoda - River Grass
+15,PG_COMP,Chloris-barbata,Chloris barbata - Purpletop Rhodes Grass
+16,PG_COMP,Chrysopogon-elongatus,Chrysopogon elongatus - Tall Tamil Grass
+17,PG_COMP,Chrysopogon-setifolius,Chrysopogon setifolius - Spiky Grass
+18,PG_COMP,Cymbopogon-ambiguus,Cymbopogon ambiguus - Lemon Scented Grass
+19,PG_COMP,Cymbopogon-bombycinus,Cymbopogon bombycinus - Silky Oilgrass
+20,PG_COMP,Cymbopogon-obtectus,Cymbopogon obtectus - Silkyheads
+21,PG_COMP,Cymbopogon-procerus,Cymbopogon procerus - Lemon Grass
+22,PG_COMP,Cynodon-dactylon,Cynodon dactylon - Couch Grass
+24,PG_COMP,Digitaria-coenicola,Digitaria coenicola - Finger Panic Grass
+25,PG_COMP,Digitaria-sp.,Digitaria sp. - Digitaria
+26,PG_COMP,Dinebra-neesii,Dinebra neesii - Swamp Grass
+27,PG_COMP,Enneapogon-avenaceus,Enneapogon avenaceus - Oatgrass
+28,PG_COMP,Enneapogon-cylindricus,Enneapogon cylindricus - Limestone Oat Grass
+29,PG_COMP,Enneapogon-glaber,Enneapogon glaber - Hairless Nineawn
+30,PG_COMP,Enneapogon-oblongus,Enneapogon oblongus - Prupe-Head Nineawn
+31,PG_COMP,Enneapogon-polyphyllus,Enneapogon polyphyllus - Woolly Oat (Leafy Nine Awn)
+32,PG_COMP,Enneapogon-sp.,Enneapogon sp. - Nineawns
+33,PG_COMP,Enteropogon-acicularis,Enteropogon acicularis - Curly Windmill Grass
+34,PG_COMP,Enteropogon-ramosus,Enteropogon ramosus - Twirly Windmill Grass
+35,PG_COMP,Eragrostis-sp.,Eragrostis-sp. - Lovegrass
+36,PG_COMP,Eragrostis-basedowii,Eragrostis basedowii - Clustered Lovegrass
+37,PG_COMP,Eragrostis-desertorum,Eragrostis desertorum - Desert Lovegrass
+38,PG_COMP,Eragrostis-elongata,Eragrostis elongata - Clustered Lovegrass
+39,PG_COMP,Eragrostis-eriopoda,Eragrostis eriopoda - Woollybutt Grass
+40,PG_COMP,Eragrostis-falcata,Eragrostis falcata - Sickle Lovegrass
+41,PG_COMP,Eragrostis-laniflora,Eragrostis laniflora - Hairy-Flowered Woollybutt
+42,PG_COMP,Eragrostis-leptocarpa,Eragrostis leptocarpa - Drooping Lovegrass
+43,PG_COMP,Eragrostis-setifolia,Eragrostis setifolia - Narrow Leaf Neverfail
+44,PG_COMP,Eragrostis-sp.,Eragrostis sp. - Lovegrass
+45,PG_COMP,Eragrostis-tenellula,Eragrostis tenellula - Delicate Lovegrass
+46,PG_COMP,Eragrostis-xerophila,Eragrostis xerophila - Broad Leaf (Knottybutt) Neverfail
+47,PG_COMP,Eriachne-sp.,Eriachne-sp. - Lovegrass
+48,PG_COMP,Eriachne-glauca,Eriachne glauca - Pan Wanderrie
+53,PG_COMP,Eriachne-helmsii,Eriachne helmsii - Woollybutt Wanderrie Grass
+49,PG_COMP,Eriachne-mucronata,Eriachne mucronata - Mountain Wanderie
+50,PG_COMP,Eriachne-nervosa,Eriachne nervosa - Plains Wanderrie
+51,PG_COMP,Eriachne-obtusa,Eriachne obtusa - Northern Wanderrie
+52,PG_COMP,Eriachne-sp.,Eriachne sp. - Wanderrie
+54,PG_COMP,Eriachne-sp.,Eriachne sp. - Wanderrie
+55,PG_COMP,Fimbristylis-dichotoma,Fimbristylis dichotoma - Eight Day Grass
+56,PG_COMP,Heteropogon-contortus,Heteropogon contortus - Black Spear Grass
+57,PG_COMP,Heteropogon-triticeus,Heteropogon triticeus - Giant Spear Grass
+58,PG_COMP,Heteropogon-triticius,Heteropogon triticius - Giant Speargrass
+59,PG_COMP,Hymenachne-acutigluma,Hymenachne acutigluma - Native Hymenachne
+60,PG_COMP,Imperata-cylindrica,Imperata cylindrica - Blady Grass
+61,PG_COMP,Leptochloa-digitata,Leptochloa digitata - Umbrella Cane Grass
+62,PG_COMP,Leptochloa-fusca,Leptochloa fusca - Beetle Grass
+63,PG_COMP,Melinis-repens,Melinis repens - Red Natal Grass
+64,PG_COMP,Mnesithea-formosa,Mnesithea formosa - Silkytop Grass
+65,PG_COMP,Mnesithea-rottboellioides,Mnesithea rottboellioides - Northern Cane Grass
+66,PG_COMP,Ophiuros-exaltatus,Ophiuros exaltatus - Cane Grass
+67,PG_COMP,Oryza-australiensis,Oryza australiensis - Australian Wild Rice
+68,PG_COMP,Panicum-decompositum,Panicum decompositum - Native Millet
+69,PG_COMP,Panicum-effusum,Panicum effusum - Hairy Panic
+70,PG_COMP,Panicum-laevinode,Panicum laevinode - Pepper Grass
+71,PG_COMP,Paraneurachne-muelleri,Paraneurachne muelleri - Northern Mulga Grass
+73,PG_COMP,Paspalidium-rarum,Paspalidium rarum - Bunch Paspalidium
+74,PG_COMP,Pennisetum-polystachion,Pennisetum polystachion - Mission Grass
+76,PG_COMP,Perotis-rara,Perotis rara - Comet Grass
+77,PG_COMP,Pseudoraphis-spinescens,Pseudoraphis spinescens - Swamp Grass
+78,PG_COMP,Sehima-nervosum,Sehima nervosum - White Grass
+79,PG_COMP,Sporobolus-actinocladus,Sporobolus actinocladus - Katoora
+80,PG_COMP,Sporobolus-viginicus,Sporobolus viginicus - Marine Couch
+81,PG_COMP,Themeda-avenacea,Themeda avenacea - Native Oatgrass
+83,PG_COMP,Thyridolepis-mitchelliana,Thyridolepis mitchelliana - Mulga Mitchell Grass
+84,PG_COMP,Triodia-basedowii,Triodia basedowii - Hard Spinifex
+85,PG_COMP,Triodia-bitextura,Triodia bitextura - Feathertop Spinifex
+86,PG_COMP,Triodia-integra,Triodia integra - Buck Spinifex
+87,PG_COMP,Triodia-intermedia,Triodia intermedia - Winged Spinifex
+88,PG_COMP,Triodia-longiceps,Triodia longiceps - Porcupine Spinifex
+89,PG_COMP,Triodia-pungens,Triodia pungens - Soft Spinifex
+90,PG_COMP,Triodia-racemigera,Triodia racemigera - Rock Spinifex
+91,PG_COMP,Triodia-schinzii,Triodia schinzii - Feathertop Spinifex
+92,PG_COMP,Triodia-spicata,Triodia spicata - Spike Flowered Spinifex
+94,PG_COMP,Tripogon-loliiformis,Tripogon loliiformis - Five Minute Grass
+95,PG_COMP,Triraphis-mollis,Triraphis mollis - Purple Plumegrass
+96,PG_COMP,Urochloa-pubigera,Urochloa pubigera - Armgrass Millet
+97,PG_COMP,Xerochloa-imberbis,Xerochloa imberbis - Northern Rice Grass
+98,PG_COMP,Zygochloa-paradoxa,Zygochloa paradoxa - Sandhill Canegrass
+99,PG_COMP,other1,Other species 1
+100,PG_COMP,other2,Other species 2
+101,PG_COMP,other3,Other species 3
+102,PG_COMP,other4,Other species 4
+0,PG_NORTH,Andropogon-gayanus,Andropogon gayanus - Gamba Grass
+1,PG_NORTH,Aristida-contorta,Aristida contorta - Bunched Kerosene Grass
+2,PG_NORTH,Aristida-holathera,Aristida holathera - Erect Kerosene Grass
+3,PG_NORTH,Aristida-hygrometrica,Aristida hygrometrica - Kerosene Grass
+4,PG_NORTH,Aristida-inaequiglumis,Aristida inaequiglumis - Unequal Three-Awn
+5,PG_NORTH,Aristida-ingrata,Aristida ingrata - Equal Three-Awn
+6,PG_NORTH,Aristida-latifolia,Aristida latifolia - Feathertop
+7,PG_NORTH,Aristida-pruinosa,Aristida pruinosa - Gulf Wiregrass
+8,PG_NORTH,Bothriochloa-pertusa,Bothriochloa pertusa - Indian Bluegrass
+9,PG_NORTH,Chionachne-cyathopoda,Chionachne cyathopoda - River Grass
+10,PG_NORTH,Chloris-barbata,Chloris barbata - Purpletop Rhodes Grass
+11,PG_NORTH,Chrysopogon-elongatus,Chrysopogon elongatus - Tall Tamil Grass
+12,PG_NORTH,Chrysopogon-setifolius,Chrysopogon setifolius - Spiky Grass
+13,PG_NORTH,Cymbopogon-bombycinus,Cymbopogon bombycinus - Silky Oilgrass
+14,PG_NORTH,Cymbopogon-procerus,Cymbopogon procerus - Lemon Grass
+15,PG_NORTH,Cynodon-dactylon,Cynodon dactylon - Couch Grass
+17,PG_NORTH,Dinebra-neesii,Dinebra neesii - Swamp Grass
+18,PG_NORTH,Enneapogon-glaber,Enneapogon glaber - Hairless Nineawn
+19,PG_NORTH,Enneapogon-oblongus,Enneapogon oblongus - Prupe-Head Nineawn
+20,PG_NORTH,Enneapogon-polyphyllus,Enneapogon polyphyllus - Limestone Bottlewasher
+21,PG_NORTH,Enneapogon-sp.,Enneapogon sp. - Nineawns
+22,PG_NORTH,Eragrostis-sp.,Eragrostis-sp. - Lovegrass
+23,PG_NORTH,Eragrostis-basedowii,Eragrostis basedowii - Clustered Lovegrass
+24,PG_NORTH,Eragrostis-desertorum,Eragrostis desertorum - Desert Lovegrass
+25,PG_NORTH,Eragrostis-elongata,Eragrostis elongata - Clustered Lovegrass
+26,PG_NORTH,Eragrostis-eriopoda,Eragrostis eriopoda - Wollybutt Grass
+27,PG_NORTH,Eragrostis-setifolia,Eragrostis setifolia - Neverfail
+28,PG_NORTH,Eragrostis-sp.,Eragrostis sp. - Lovegrass
+29,PG_NORTH,Eragrostis-tenellula,Eragrostis tenellula - Delicate Lovegrass
+30,PG_NORTH,Eriachne-sp.,Eriachne-sp. - Lovegrass
+31,PG_NORTH,Eriachne-glauca,Eriachne glauca - Pan Wanderrie
+32,PG_NORTH,Eriachne-obtusa,Eriachne obtusa - Northern Wanderrie
+33,PG_NORTH,Eriachne-sp.,Eriachne sp. - Wanderrie
+34,PG_NORTH,Heteropogon-contortus,Heteropogon contortus - Black Spear Grass
+35,PG_NORTH,Heteropogon-triticeus,Heteropogon triticeus - Giant Spear Grass
+36,PG_NORTH,Heteropogon-triticius,Heteropogon triticius - Giant Speargrass
+37,PG_NORTH,Hymenachne-acutigluma,Hymenachne acutigluma - Native Hymenachne
+38,PG_NORTH,Imperata-cylindrica,Imperata cylindrica - Blady Grass
+39,PG_NORTH,Leptochloa-digitata,Leptochloa digitata - Umbrella Cane Grass
+40,PG_NORTH,Leptochloa-fusca,Leptochloa fusca - Beetle Grass
+41,PG_NORTH,Melinis-repens,Melinis repens - Red Natal Grass
+42,PG_NORTH,Mnesithea-formosa,Mnesithea formosa - Silkytop Grass
+43,PG_NORTH,Mnesithea-rottboellioides,Mnesithea rottboellioides - Northern Cane Grass
+44,PG_NORTH,Ophiuros-exaltatus,Ophiuros exaltatus - Cane Grass
+45,PG_NORTH,Oryza-australiensis,Oryza australiensis - Australian Wild Rice
+46,PG_NORTH,Paspalidium-rarum,Paspalidium rarum - Bunch Paspalidium
+47,PG_NORTH,Pennisetum-polystachion,Pennisetum polystachion - Mission Grass
+49,PG_NORTH,Perotis-rara,Perotis rara - Comet Grass
+50,PG_NORTH,Pseudoraphis-spinescens,Pseudoraphis spinescens - Swamp Grass
+51,PG_NORTH,Sehima-nervosum,Sehima nervosum - White Grass
+52,PG_NORTH,Sporobolus-actinocladus,Sporobolus actinocladus - Katoora
+53,PG_NORTH,Sporobolus-viginicus,Sporobolus viginicus - Marine Couch
+54,PG_NORTH,Themeda-avenacea,Themeda avenacea - Native Oatgrass
+56,PG_NORTH,Triodia-basedowii,Triodia basedowii - Lobed Spinifex
+57,PG_NORTH,Triodia-bitextura,Triodia bitextura - Feathertop Spinifex
+58,PG_NORTH,Triodia-intermedia,Triodia intermedia - Winged Spinifex
+59,PG_NORTH,Triodia-longiceps,Triodia longiceps - Porcupine Spinifex
+60,PG_NORTH,Triodia-pungens,Triodia pungens - Soft Spinifex
+61,PG_NORTH,Triodia-racemigera,Triodia racemigera - Rock Spinifex
+62,PG_NORTH,Triodia-spicata,Triodia spicata - Spike Flowered Spinfex
+63,PG_NORTH,Triodia-intermedia,Triodia intermedia - Winged Spinifex
+64,PG_NORTH,Xerochloa-imberbis,Xerochloa imberbis - Northern Rice Grass
+65,PG_NORTH,other1,Other species 1
+66,PG_NORTH,other2,Other species 2
+67,PG_NORTH,other3,Other species 3
+68,PG_NORTH,other4,Other species 4
+0,PG_SOUTH,Amphipogon-caricinus,Amphipogon caricinus - Long Greybeard Grass
+1,PG_SOUTH,Aristida-biglandulosa,Aristida biglandulosa - Two Gland Three Awn
+2,PG_SOUTH,Aristida-exserta,Aristida exserta - Aristida Exserta
+3,PG_SOUTH,Aristida-holathera,Aristida holathera - Erect Kerosene Grass
+4,PG_SOUTH,Aristida-hygrometrica,Aristida hygrometrica - Northern Kerosene Grass
+5,PG_SOUTH,Aristida-inaequiglumis,Aristida inaequiglumis - Curly Wiregrass (Unequal Threeawn)
+6,PG_SOUTH,Aristida-latifolia,Aristida latifolia - Feathertop Wiregrass
+7,PG_SOUTH,Aristida-strigosa,Aristida strigosa - Rough Threeawn (Rough Wiregrass)
+8,PG_SOUTH,Astrebla-pectinata,Astrebla pectinata - Barley Mitchell Grass
+9,PG_SOUTH,Cymbopogon-ambiguus,Cymbopogon ambiguus - Lemon Scented Grass
+10,PG_SOUTH,Cymbopogon-obtectus,Cymbopogon obtectus - Silkyheads
+11,PG_SOUTH,Cynodon-dactylon,Cynodon dactylon - Couch Grass
+12,PG_SOUTH,Digitaria-coenicola,Digitaria coenicola - Finger Panic Grass
+13,PG_SOUTH,Digitaria-sp.,Digitaria sp. - Digitaria
+14,PG_SOUTH,Enneapogon-avenaceus,Enneapogon avenaceus - Oatgrass
+15,PG_SOUTH,Enneapogon-cylindricus,Enneapogon cylindricus - Limestone Oat Grass
+16,PG_SOUTH,Enneapogon-polyphyllus,Enneapogon polyphyllus - Woolly Oat (Leafy Nine Awn)
+17,PG_SOUTH,Enteropogon-acicularis,Enteropogon acicularis - Curly Windmill Grass
+18,PG_SOUTH,Enteropogon-ramosus,Enteropogon ramosus - Twirly Windmill Grass
+19,PG_SOUTH,Eragrostis-eriopoda,Eragrostis eriopoda - Woollybutt Grass
+20,PG_SOUTH,Eragrostis-falcata,Eragrostis falcata - Sickle Lovegrass
+21,PG_SOUTH,Eragrostis-laniflora,Eragrostis laniflora - Hairy-Flowered Woollybutt
+22,PG_SOUTH,Eragrostis-leptocarpa,Eragrostis leptocarpa - Drooping Lovegrass
+23,PG_SOUTH,Eragrostis-setifolia,Eragrostis setifolia - Narrow Leaf Neverfail
+24,PG_SOUTH,Eragrostis-sp.,Eragrostis sp. - Lovegrass
+25,PG_SOUTH,Eragrostis-xerophila,Eragrostis xerophila - Broad Leaf (Knottybutt) Neverfail
+29,PG_SOUTH,Eriachne-helmsii,Eriachne helmsii - Woollybutt Wanderrie Grass
+26,PG_SOUTH,Eriachne-mucronata,Eriachne mucronata - Mountain Wanderie
+27,PG_SOUTH,Eriachne-nervosa,Eriachne nervosa - Plains Wanderrie
+28,PG_SOUTH,Eriachne-sp.,Eriachne sp. - Wanderrie
+30,PG_SOUTH,Fimbristylis-dichotoma,Fimbristylis dichotoma - Eight Day Grass
+31,PG_SOUTH,Panicum-decompositum,Panicum decompositum - Native Millet
+32,PG_SOUTH,Panicum-effusum,Panicum effusum - Hairy Panic
+33,PG_SOUTH,Panicum-laevinode,Panicum laevinode - Pepper Grass
+34,PG_SOUTH,Paraneurachne-muelleri,Paraneurachne muelleri - Northern Mulga Grass
+36,PG_SOUTH,Thyridolepis-mitchelliana,Thyridolepis mitchelliana - Mulga Mitchell Grass
+37,PG_SOUTH,Triodia-basedowii,Triodia basedowii - Hard Spinifex
+38,PG_SOUTH,Triodia-integra,Triodia integra - Buck Spinifex
+39,PG_SOUTH,Triodia-longiceps,Triodia longiceps - Porcupine Spinifex
+40,PG_SOUTH,Triodia-pungens,Triodia pungens - Soft Spinifex
+41,PG_SOUTH,Triodia-schinzii,Triodia schinzii - Feathertop Spinifex
+42,PG_SOUTH,Triodia-spicata,Triodia spicata - Spike Flowered Spinifex
+43,PG_SOUTH,Tripogon-loliiformis,Tripogon loliiformis - Five Minute Grass
+44,PG_SOUTH,Triraphis-mollis,Triraphis mollis - Purple Plumegrass
+45,PG_SOUTH,Urochloa-pubigera,Urochloa pubigera - Armgrass Millet
+46,PG_SOUTH,Zygochloa-paradoxa,Zygochloa paradoxa - Sandhill Canegrass
+47,PG_SOUTH,other1,Other species 1
+48,PG_SOUTH,other2,Other species 2
+49,PG_SOUTH,other3,Other species 3
+50,PG_SOUTH,other4,Other species 4

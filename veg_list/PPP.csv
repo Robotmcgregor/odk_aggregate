@@ -1,0 +1,81 @@
+,list_name,name,label
+0,PPP_COMP,Alloteropsis-semialata,Alloteropsis semialata - Cockatoo Grass
+1,PPP_COMP,Astrebla-elymoides,Astrebla elymoides - Hoop Mitchell
+2,PPP_COMP,Astrebla-lappacea,Astrebla lappacea - Curly Mitchell Grass
+3,PPP_COMP,Astrebla-pectinata,Astrebla pectinata - Barley Mitchell Grass
+4,PPP_COMP,Astrebla-squarrosa,Astrebla squarrosa - Bull Mitchell Grass
+5,PPP_COMP,Bothriochloa-bladhii,Bothriochloa bladhii - Forest Bluegrass
+6,PPP_COMP,Bothriochloa-ewartiana,Bothriochloa ewartiana - Desert Bluegrass
+7,PPP_COMP,Brachiaria-mutica,Brachiaria mutica - Para Grass
+8,PPP_COMP,Cenchrus-ciliaris,Cenchrus ciliaris - Buffel Grass
+9,PPP_COMP,Cenchrus-setiger,Cenchrus setiger - Birdwood Grass
+10,PPP_COMP,Chrysopogon-fallax,Chrysopogon fallax - Golden Beard Grass
+11,PPP_COMP,Chrysopogon-latifolius,Chrysopogon latifolius - Broad-Leaf Ribbon Grass
+12,PPP_COMP,Dichanthium-fecundum,Dichanthium fecundum - Curly Blue Grass
+13,PPP_COMP,Dichanthium-sericeum,Dichanthium sericeum - Queensland Blue Grass
+14,PPP_COMP,Digitaria-brownii,Digitaria brownii - Cotton Panic
+15,PPP_COMP,Digitaria-coenicola,Digitaria coenicola - Umbrella Grass (Finger Panic)
+16,PPP_COMP,Eulalia-aurea,Eulalia aurea - Silky Browntop
+17,PPP_COMP,Panicum-decompositum,"Panicum decompositum - Native Panic, Native Millet"
+18,PPP_COMP,Sehima-nervosum,Sehima nervosum - White Grass
+19,PPP_COMP,Sorghum-interjectum,Sorghum interjectum - Perennial Sorghum
+20,PPP_COMP,Sorghum-plumosum,Sorghum plumosum - Plume Sorghum
+21,PPP_COMP,Sporobolus-virginicus,Sporobolus virginicus - Marine Couch
+22,PPP_COMP,Themeda-avenacea,Themeda avenacea - Oat Kangaroo Grass
+23,PPP_COMP,Themeda-triandra,Themeda triandra - Kangaroo Grass
+25,PPP_COMP,Urochloa-humidicola,Urochloa humidicola - Tully Grass
+26,PPP_COMP,Urochloa-mosambicensis,Urochloa mosambicensis - Sabi Grass
+27,PPP_COMP,Urochloa-mutica,Urochloa mutica - Para Grass
+28,PPP_COMP,other1,Other species 1
+29,PPP_COMP,other2,Other species 2
+30,PPP_COMP,other3,Other species 3
+31,PPP_COMP,other4,Other species 4
+0,PPP_NORTH,Alloteropsis-semialata,Alloteropsis semialata - Cockatoo Grass
+1,PPP_NORTH,Astrebla-elymoides,Astrebla elymoides - Hoop Mitchell Grass
+2,PPP_NORTH,Astrebla-lappacea,Astrebla lappacea - Curly Mitchell Grass
+3,PPP_NORTH,Astrebla-pectinata,Astrebla pectinata - Barley Mitchell Grass
+4,PPP_NORTH,Astrebla-squarrosa,Astrebla squarrosa - Bull Mitchell Grass
+5,PPP_NORTH,Bothriochloa-bladhii,Bothriochloa bladhii - Forest Bluegrass
+6,PPP_NORTH,Bothriochloa-ewartiana,Bothriochloa ewartiana - Desert Bluegrass
+7,PPP_NORTH,Brachiaria-mutica,Brachiaria mutica - Para Grass
+8,PPP_NORTH,Cenchrus-ciliaris,Cenchrus ciliaris - Buffel Grass
+9,PPP_NORTH,Cenchrus-setiger,Cenchrus setiger - Birdwood Grass
+10,PPP_NORTH,Chrysopogon-fallax,Chrysopogon fallax - Golden Beard Grass
+11,PPP_NORTH,Chrysopogon-latifolius,Chrysopogon latifolius - Broad-Leaf Ribbon Grass
+12,PPP_NORTH,Dichanthium-fecundum,Dichanthium fecundum - Curly Bluegrass
+13,PPP_NORTH,Dichanthium-sericeum,Dichanthium sericeum - Queensland Bluegrass
+14,PPP_NORTH,Eulalia-aurea,Eulalia aurea - Silky Browntop
+15,PPP_NORTH,Panicum-decompositum,Panicum decompositum - Native Millet
+16,PPP_NORTH,Sehima-nervosum,Sehima nervosum - White Grass
+17,PPP_NORTH,Sorghum-interjectum,Sorghum interjectum - Perennial Sorghum
+18,PPP_NORTH,Sorghum-plumosum,Sorghum plumosum - Plume Sorghum
+19,PPP_NORTH,Sporobolus-virginicus,Sporobolus virginicus - Marine Couch
+20,PPP_NORTH,Themeda-triandra,Themeda triandra - Kangaroo Grass
+21,PPP_NORTH,Urochloa-humidicola,Urochloa humidicola - Tully Grass
+22,PPP_NORTH,Urochloa-mosambicensis,Urochloa mosambicensis - Sabi Grass
+23,PPP_NORTH,Urochloa-mutica,Urochloa mutica - Para Grass
+24,PPP_NORTH,other1,Other species 1
+25,PPP_NORTH,other2,Other species 2
+26,PPP_NORTH,other3,Other species 3
+27,PPP_NORTH,other4,Other species 4
+0,PPP_SOUTH,Astrebla-elymoides,Astrebla elymoides - Hoop Mitchell
+1,PPP_SOUTH,Astrebla-pectinata,Astrebla pectinata - Barley Mitchell Grass
+2,PPP_SOUTH,Astrebla-squarrosa,Astrebla squarrosa - Bull Mitchell Grass
+3,PPP_SOUTH,Bothriochloa-ewartiana,Bothriochloa ewartiana - Desert Bluegrass
+4,PPP_SOUTH,Cenchrus-ciliaris,Cenchrus ciliaris - Buffel Grass
+5,PPP_SOUTH,Cenchrus-setiger,Cenchrus setiger - Birdwood Grass
+6,PPP_SOUTH,Chrysopogon-fallax,Chrysopogon fallax - Golden Beard Grass
+7,PPP_SOUTH,Dichanthium-fecundum,Dichanthium fecundum - Curly Blue Grass
+8,PPP_SOUTH,Dichanthium-sericeum,Dichanthium sericeum - Queensland Blue Grass
+9,PPP_SOUTH,Digitaria-brownii,Digitaria brownii - Cotton Panic
+10,PPP_SOUTH,Digitaria-coenicola,Digitaria coenicola - Umbrella Grass (Finger Panic)
+11,PPP_SOUTH,Eulalia-aurea,Eulalia aurea - Silky Browntop
+12,PPP_SOUTH,Panicum-decompositum,"Panicum decompositum - Native Panic, Native Millet"
+13,PPP_SOUTH,Sehima-nervosum,Sehima nervosum - White Grass
+14,PPP_SOUTH,Themeda-avenacea,Themeda avenacea - Oat Kangaroo Grass
+15,PPP_SOUTH,Themeda-triandra,Themeda triandra - Kangaroo Grass
+16,PPP_SOUTH,Urochloa-mosambicensis,Urochloa mosambicensis - Sabi Grass
+17,PPP_SOUTH,other1,Other species 1
+18,PPP_SOUTH,other2,Other species 2
+19,PPP_SOUTH,other3,Other species 3
+20,PPP_SOUTH,other4,Other species 4
